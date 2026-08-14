@@ -1,24 +1,24 @@
 # Awesome IOCs with stars
 
-An [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,371 | 🐛 99 | 📅 2026-06-30 collection of indicators of compromise (and a few IOC related tools).
+An [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,765 | 🐛 100 | 📅 2026-06-30 collection of indicators of compromise (and a few IOC related tools).
 
 ## Contents
 
-* [IOCs](https://github.com/sroberts/awesome-iocs#iocs) ⭐ 994 | 🐛 7 | 🌐 Shell | 📅 2025-05-08
-  * [Indicators](https://github.com/sroberts/awesome-iocs#indicators) ⭐ 994 | 🐛 7 | 🌐 Shell | 📅 2025-05-08
-  * [Snort Signatures](https://github.com/sroberts/awesome-iocs#snort-signatures) ⭐ 994 | 🐛 7 | 🌐 Shell | 📅 2025-05-08
-  * [Yara Signatures](https://github.com/sroberts/awesome-iocs#yara-signatures) ⭐ 994 | 🐛 7 | 🌐 Shell | 📅 2025-05-08
-* [Tools](https://github.com/sroberts/awesome-iocs#tools) ⭐ 994 | 🐛 7 | 🌐 Shell | 📅 2025-05-08
-  * [IOC Tools](https://github.com/sroberts/awesome-iocs#ioc-tools) ⭐ 994 | 🐛 7 | 🌐 Shell | 📅 2025-05-08
-  * [IOC Formats](https://github.com/sroberts/awesome-iocs#ioc-formats) ⭐ 994 | 🐛 7 | 🌐 Shell | 📅 2025-05-08
+* [IOCs](https://github.com/sroberts/awesome-iocs#iocs) ⭐ 995 | 🐛 7 | 🌐 Shell | 📅 2025-05-08
+  * [Indicators](https://github.com/sroberts/awesome-iocs#indicators) ⭐ 995 | 🐛 7 | 🌐 Shell | 📅 2025-05-08
+  * [Snort Signatures](https://github.com/sroberts/awesome-iocs#snort-signatures) ⭐ 995 | 🐛 7 | 🌐 Shell | 📅 2025-05-08
+  * [Yara Signatures](https://github.com/sroberts/awesome-iocs#yara-signatures) ⭐ 995 | 🐛 7 | 🌐 Shell | 📅 2025-05-08
+* [Tools](https://github.com/sroberts/awesome-iocs#tools) ⭐ 995 | 🐛 7 | 🌐 Shell | 📅 2025-05-08
+  * [IOC Tools](https://github.com/sroberts/awesome-iocs#ioc-tools) ⭐ 995 | 🐛 7 | 🌐 Shell | 📅 2025-05-08
+  * [IOC Formats](https://github.com/sroberts/awesome-iocs#ioc-formats) ⭐ 995 | 🐛 7 | 🌐 Shell | 📅 2025-05-08
 
 ## IOCs
 
 ### Indicators
 
-* [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) ⭐ 3,004 | 🐛 13 | 🌐 YARA | 📅 2026-08-03 - Signature base for my scanner tools.
-* [eset/malware-ioc](https://github.com/eset/malware-ioc) ⭐ 1,974 | 🐛 0 | 🌐 YARA | 📅 2026-06-25 - Indicators of Compromises (IOC) of our various investigations.
-* [aptnotes/data](https://github.com/aptnotes/data) ⭐ 1,808 | 🐛 38 | 📅 2024-12-16 - APTnotes data.
+* [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) ⭐ 3,003 | 🐛 13 | 🌐 YARA | 📅 2026-08-03 - Signature base for my scanner tools.
+* [eset/malware-ioc](https://github.com/eset/malware-ioc) ⭐ 1,975 | 🐛 0 | 🌐 YARA | 📅 2026-06-25 - Indicators of Compromises (IOC) of our various investigations.
+* [aptnotes/data](https://github.com/aptnotes/data) ⭐ 1,807 | 🐛 38 | 📅 2024-12-16 - APTnotes data.
 * [pan-unit42/iocs](https://github.com/pan-unit42/iocs) ⚠️ Archived - Indicators from Unit 42 Public Reports.
 * [0x27/linux.mirai](https://github.com/0x27/linux.mirai) ⭐ 578 | 🐛 1 | 🌐 C | 📅 2017-02-17 - Leaked Linux.Mirai Source Code for Research/IoC Development Purposes.
 * [fireeye/iocs](https://github.com/fireeye/iocs) ⚠️ Archived - FireEye Publicly Shared Indicators of Compromise (IOCs).
@@ -38,7 +38,7 @@ An [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,371 | 🐛 99 | �
 
 ### Yara Signatures
 
-* [Yara-Rules/rules](https://github.com/Yara-Rules/rules) ⭐ 4,872 | 🐛 28 | 🌐 YARA | 📅 2024-04-17 - Repository of yara rules.
+* [Yara-Rules/rules](https://github.com/Yara-Rules/rules) ⭐ 4,874 | 🐛 28 | 🌐 YARA | 📅 2024-04-17 - Repository of yara rules.
 * [reversinglabs/reversinglabs-yara-rules](https://github.com/reversinglabs/reversinglabs-yara-rules) ⭐ 937 | 🐛 3 | 🌐 YARA | 📅 2025-11-03 - ReversingLabs YARA Rules.
 * [advanced-threat-research/Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules) ⭐ 626 | 🐛 0 | 🌐 YARA | 📅 2025-03-18 - Repository of YARA rules made by McAfee ATR Team
 * [InQuest/yara-rules](https://github.com/InQuest/yara-rules) ⭐ 390 | 🐛 1 | 🌐 Python | 📅 2022-05-11 - A collection of Yara rules we wish to share with the world, most probably referenced from <http://blog.inquest.net>.
@@ -54,7 +54,7 @@ An [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,371 | 🐛 99 | �
 ### IOC Tools
 
 * [ninoseki/mitaka](https://github.com/ninoseki/mitaka#downloads) ⭐ 1,839 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Browser extension to lookup IoCs/observables on many sources.
-* [Neo23x0/yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,807 | 🐛 14 | 🌐 Python | 📅 2026-01-10 - yarGen is a generator for YARA rules.
+* [Neo23x0/yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,808 | 🐛 14 | 🌐 Python | 📅 2026-01-10 - yarGen is a generator for YARA rules.
 * [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor) ⭐ 922 | 🐛 15 | 🌐 Python | 📅 2026-05-26 - Flexible framework for consuming threat intelligence.
 * [InQuest/iocextract](https://github.com/inquest/python-iocextract) ⭐ 583 | 🐛 2 | 🌐 Python | 📅 2024-08-28 - Advanced Indicator of Compromise (IOC) extractor.
 * [mandiant/ioc\_writer](https://github.com/mandiant/ioc_writer) ⚠️ Archived - Provide a python library that allows for basic creation and editing of OpenIOC objects.
@@ -76,4 +76,4 @@ Public Domain Dedication license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
