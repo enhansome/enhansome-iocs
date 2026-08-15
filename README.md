@@ -1,6 +1,6 @@
 # Awesome IOCs with stars
 
-An [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,765 | 🐛 100 | 📅 2026-06-30 collection of indicators of compromise (and a few IOC related tools).
+An [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,113 | 🐛 100 | 📅 2026-06-30 collection of indicators of compromise (and a few IOC related tools).
 
 ## Contents
 
@@ -16,9 +16,9 @@ An [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,765 | 🐛 100 | �
 
 ### Indicators
 
-* [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) ⭐ 3,003 | 🐛 13 | 🌐 YARA | 📅 2026-08-03 - Signature base for my scanner tools.
+* [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) ⭐ 3,005 | 🐛 13 | 🌐 YARA | 📅 2026-08-03 - Signature base for my scanner tools.
 * [eset/malware-ioc](https://github.com/eset/malware-ioc) ⭐ 1,975 | 🐛 0 | 🌐 YARA | 📅 2026-06-25 - Indicators of Compromises (IOC) of our various investigations.
-* [aptnotes/data](https://github.com/aptnotes/data) ⭐ 1,807 | 🐛 38 | 📅 2024-12-16 - APTnotes data.
+* [aptnotes/data](https://github.com/aptnotes/data) ⭐ 1,808 | 🐛 38 | 📅 2024-12-16 - APTnotes data.
 * [pan-unit42/iocs](https://github.com/pan-unit42/iocs) ⚠️ Archived - Indicators from Unit 42 Public Reports.
 * [0x27/linux.mirai](https://github.com/0x27/linux.mirai) ⭐ 578 | 🐛 1 | 🌐 C | 📅 2017-02-17 - Leaked Linux.Mirai Source Code for Research/IoC Development Purposes.
 * [fireeye/iocs](https://github.com/fireeye/iocs) ⚠️ Archived - FireEye Publicly Shared Indicators of Compromise (IOCs).
@@ -76,4 +76,4 @@ Public Domain Dedication license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
