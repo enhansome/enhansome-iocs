@@ -125,7 +125,7 @@
             "last_commit": "2026-08-03T07:00:36Z",
             "owner": "Neo23x0",
             "repo": "signature-base",
-            "stars": 3005
+            "stars": 3006
           }
         },
         {
@@ -139,7 +139,7 @@
             "last_commit": "2026-06-25T15:55:53Z",
             "owner": "eset",
             "repo": "malware-ioc",
-            "stars": 1975
+            "stars": 1977
           }
         },
         {
@@ -448,7 +448,7 @@
             "last_commit": "2026-08-03T07:01:04Z",
             "owner": "ninoseki",
             "repo": "mitaka",
-            "stars": 1839
+            "stars": 1840
           }
         },
         {
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:46:26.607Z",
+    "last_updated": "2026-08-16T21:46:17.953Z",
     "original_repository": "sroberts/awesome-iocs",
     "original_repository_sha": "be4db2bab5e2397034790239f08ce4a7be8ef321",
     "enhanced_repository": "enhansome/enhansome-iocs",

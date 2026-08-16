@@ -1,6 +1,6 @@
 # Awesome IOCs with stars
 
-An [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,113 | 🐛 100 | 📅 2026-06-30 collection of indicators of compromise (and a few IOC related tools).
+An [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,548 | 🐛 100 | 📅 2026-06-30 collection of indicators of compromise (and a few IOC related tools).
 
 ## Contents
 
@@ -16,8 +16,8 @@ An [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,113 | 🐛 100 | �
 
 ### Indicators
 
-* [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) ⭐ 3,005 | 🐛 13 | 🌐 YARA | 📅 2026-08-03 - Signature base for my scanner tools.
-* [eset/malware-ioc](https://github.com/eset/malware-ioc) ⭐ 1,975 | 🐛 0 | 🌐 YARA | 📅 2026-06-25 - Indicators of Compromises (IOC) of our various investigations.
+* [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) ⭐ 3,006 | 🐛 13 | 🌐 YARA | 📅 2026-08-03 - Signature base for my scanner tools.
+* [eset/malware-ioc](https://github.com/eset/malware-ioc) ⭐ 1,977 | 🐛 0 | 🌐 YARA | 📅 2026-06-25 - Indicators of Compromises (IOC) of our various investigations.
 * [aptnotes/data](https://github.com/aptnotes/data) ⭐ 1,808 | 🐛 38 | 📅 2024-12-16 - APTnotes data.
 * [pan-unit42/iocs](https://github.com/pan-unit42/iocs) ⚠️ Archived - Indicators from Unit 42 Public Reports.
 * [0x27/linux.mirai](https://github.com/0x27/linux.mirai) ⭐ 578 | 🐛 1 | 🌐 C | 📅 2017-02-17 - Leaked Linux.Mirai Source Code for Research/IoC Development Purposes.
@@ -53,7 +53,7 @@ An [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,113 | 🐛 100 | �
 
 ### IOC Tools
 
-* [ninoseki/mitaka](https://github.com/ninoseki/mitaka#downloads) ⭐ 1,839 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Browser extension to lookup IoCs/observables on many sources.
+* [ninoseki/mitaka](https://github.com/ninoseki/mitaka#downloads) ⭐ 1,840 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - Browser extension to lookup IoCs/observables on many sources.
 * [Neo23x0/yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,808 | 🐛 14 | 🌐 Python | 📅 2026-01-10 - yarGen is a generator for YARA rules.
 * [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor) ⭐ 922 | 🐛 15 | 🌐 Python | 📅 2026-05-26 - Flexible framework for consuming threat intelligence.
 * [InQuest/iocextract](https://github.com/inquest/python-iocextract) ⭐ 583 | 🐛 2 | 🌐 Python | 📅 2024-08-28 - Advanced Indicator of Compromise (IOC) extractor.
@@ -76,4 +76,4 @@ Public Domain Dedication license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
