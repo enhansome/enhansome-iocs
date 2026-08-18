@@ -305,7 +305,7 @@
             "last_commit": "2024-04-17T00:12:25Z",
             "owner": "Yara-Rules",
             "repo": "rules",
-            "stars": 4874
+            "stars": 4873
           }
         },
         {
@@ -448,7 +448,7 @@
             "last_commit": "2026-08-17T06:07:45Z",
             "owner": "ninoseki",
             "repo": "mitaka",
-            "stars": 1840
+            "stars": 1839
           }
         },
         {
@@ -476,7 +476,7 @@
             "last_commit": "2026-05-26T15:01:24Z",
             "owner": "pedramamini",
             "repo": "ThreatIngestor",
-            "stars": 922
+            "stars": 923
           }
         },
         {
@@ -565,7 +565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:51:43.006Z",
+    "last_updated": "2026-08-18T21:49:25.639Z",
     "original_repository": "sroberts/awesome-iocs",
     "original_repository_sha": "be4db2bab5e2397034790239f08ce4a7be8ef321",
     "enhanced_repository": "enhansome/enhansome-iocs",
