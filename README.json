@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-03T07:00:36Z",
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3006
+                "stars": 3008
               }
             },
             {
@@ -352,7 +352,7 @@
                 "last_commit": "2026-08-17T06:07:45Z",
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1840
+                "stars": 1841
               }
             },
             {
@@ -367,7 +367,7 @@
                 "last_commit": "2026-01-10T15:02:41Z",
                 "owner": "Neo23x0",
                 "repo": "yarGen",
-                "stars": 1809
+                "stars": 1808
               }
             },
             {
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:33:49.986Z",
+    "last_updated": "2026-08-19T21:51:54.539Z",
     "original_repository": "sroberts/awesome-iocs",
     "original_repository_id": 74331654,
     "original_repository_sha": "be4db2bab5e2397034790239f08ce4a7be8ef321",
