@@ -1,6 +1,6 @@
 # Awesome IOCs with stars
 
-An [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,625 | 🐛 105 | 📅 2026-08-21 collection of indicators of compromise (and a few IOC related tools).
+An [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,964 | 🐛 106 | 📅 2026-08-21 collection of indicators of compromise (and a few IOC related tools).
 
 ## Contents
 
@@ -54,7 +54,7 @@ An [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,625 | 🐛 105 | �
 ### IOC Tools
 
 * [ninoseki/mitaka](https://github.com/ninoseki/mitaka#downloads) ⭐ 1,842 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-20 - Browser extension to lookup IoCs/observables on many sources.
-* [Neo23x0/yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,810 | 🐛 14 | 🌐 Python | 📅 2026-01-10 - yarGen is a generator for YARA rules.
+* [Neo23x0/yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,811 | 🐛 14 | 🌐 Python | 📅 2026-01-10 - yarGen is a generator for YARA rules.
 * [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor) ⭐ 924 | 🐛 15 | 🌐 Python | 📅 2026-05-26 - Flexible framework for consuming threat intelligence.
 * [InQuest/iocextract](https://github.com/inquest/python-iocextract) ⭐ 583 | 🐛 2 | 🌐 Python | 📅 2024-08-28 - Advanced Indicator of Compromise (IOC) extractor.
 * [mandiant/ioc\_writer](https://github.com/mandiant/ioc_writer) ⚠️ Archived - Provide a python library that allows for basic creation and editing of OpenIOC objects.
@@ -76,4 +76,4 @@ Public Domain Dedication license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
