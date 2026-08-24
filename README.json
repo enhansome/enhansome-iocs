@@ -4,6 +4,119 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "IOCs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Indicators",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74331654,
+                "language": "Shell",
+                "last_commit": "2025-05-08T15:09:05Z",
+                "owner": "sroberts",
+                "repo": "awesome-iocs",
+                "stars": 996
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Snort Signatures",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74331654,
+                "language": "Shell",
+                "last_commit": "2025-05-08T15:09:05Z",
+                "owner": "sroberts",
+                "repo": "awesome-iocs",
+                "stars": 996
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Yara Signatures",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74331654,
+                "language": "Shell",
+                "last_commit": "2025-05-08T15:09:05Z",
+                "owner": "sroberts",
+                "repo": "awesome-iocs",
+                "stars": 996
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 74331654,
+            "language": "Shell",
+            "last_commit": "2025-05-08T15:09:05Z",
+            "owner": "sroberts",
+            "repo": "awesome-iocs",
+            "stars": 996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tools",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IOC Tools",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74331654,
+                "language": "Shell",
+                "last_commit": "2025-05-08T15:09:05Z",
+                "owner": "sroberts",
+                "repo": "awesome-iocs",
+                "stars": 996
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IOC Formats",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74331654,
+                "language": "Shell",
+                "last_commit": "2025-05-08T15:09:05Z",
+                "owner": "sroberts",
+                "repo": "awesome-iocs",
+                "stars": 996
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 74331654,
+            "language": "Shell",
+            "last_commit": "2025-05-08T15:09:05Z",
+            "owner": "sroberts",
+            "repo": "awesome-iocs",
+            "stars": 996
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -189,6 +302,28 @@
           "description": null,
           "node_type": "group",
           "title": "Indicators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "kingtuna/Signatures",
+              "description": "A mixture of snort and suricata signatures.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40329907,
+                "language": null,
+                "last_commit": "2015-08-24T07:44:55Z",
+                "owner": "kingtuna",
+                "repo": "Signatures",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Snort Signatures"
         },
         {
           "children": [
@@ -477,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:47:44.573Z",
+    "last_updated": "2026-08-24T14:17:01.521Z",
     "original_repository": "sroberts/awesome-iocs",
     "original_repository_id": 74331654,
     "original_repository_sha": "be4db2bab5e2397034790239f08ce4a7be8ef321",

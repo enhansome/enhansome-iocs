@@ -1,6 +1,6 @@
 # Awesome IOCs with stars
 
-An [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,289 | 🐛 106 | 📅 2026-08-21 collection of indicators of compromise (and a few IOC related tools).
+An [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21 collection of indicators of compromise (and a few IOC related tools).
 
 ## Contents
 
@@ -33,8 +33,8 @@ An [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,289 | 🐛 106 | �
 
 ### Snort Signatures
 
-* [Snort Downloads](https://www.snort.org/downloads) - Signatures for the Snort (& Suricata) Intrusion Detection System.
 * [kingtuna/Signatures](https://github.com/kingtuna/Signatures) ⭐ 5 | 🐛 0 | 📅 2015-08-24 - A mixture of snort and suricata signatures.
+* [Snort Downloads](https://www.snort.org/downloads) - Signatures for the Snort (& Suricata) Intrusion Detection System.
 
 ### Yara Signatures
 
@@ -76,4 +76,4 @@ Public Domain Dedication license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
