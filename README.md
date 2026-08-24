@@ -1,6 +1,6 @@
 # Awesome IOCs with stars
 
-An [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21 collection of indicators of compromise (and a few IOC related tools).
+An [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,602 | 🐛 106 | 📅 2026-08-21 collection of indicators of compromise (and a few IOC related tools).
 
 ## Contents
 
@@ -22,7 +22,7 @@ An [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | �
 * [pan-unit42/iocs](https://github.com/pan-unit42/iocs) ⚠️ Archived - Indicators from Unit 42 Public Reports.
 * [0x27/linux.mirai](https://github.com/0x27/linux.mirai) ⭐ 579 | 🐛 1 | 🌐 C | 📅 2017-02-17 - Leaked Linux.Mirai Source Code for Research/IoC Development Purposes.
 * [fireeye/iocs](https://github.com/fireeye/iocs) ⚠️ Archived - FireEye Publicly Shared Indicators of Compromise (IOCs).
-* [citizenlab/malware-indicators](https://github.com/citizenlab/malware-indicators) ⭐ 283 | 🐛 2 | 🌐 YARA | 📅 2020-10-04 - Citizen Lab Malware Reports.
+* [citizenlab/malware-indicators](https://github.com/citizenlab/malware-indicators) ⭐ 284 | 🐛 2 | 🌐 YARA | 📅 2020-10-04 - Citizen Lab Malware Reports.
 * [botherder/targetedthreats](https://github.com/botherder/targetedthreats) ⭐ 190 | 🐛 4 | 🌐 Python | 📅 2021-11-11 - Collection of IOCs related to targeting of civil society.
 * [swisscom/detections](https://github.com/swisscom/detections) ⚠️ Archived - This repo contains threat intelligence information and threat detection indicators (IOC, IOA) shared by Swisscom CSIRT.
 * [makflwana/IOCs-in-CSV-format](https://github.com/makflwana/IOCs-in-CSV-format) ⭐ 12 | 🐛 0 | 📅 2017-06-10 - The repository contains IOCs in CSV format for APT, Cyber Crimes, Malware and Trojan and whatever I found as part of hunting and research.

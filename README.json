@@ -220,7 +220,7 @@
                 "last_commit": "2020-10-04T15:16:09Z",
                 "owner": "citizenlab",
                 "repo": "malware-indicators",
-                "stars": 283
+                "stars": 284
               }
             },
             {
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:17:01.521Z",
+    "last_updated": "2026-08-24T21:54:42.053Z",
     "original_repository": "sroberts/awesome-iocs",
     "original_repository_id": 74331654,
     "original_repository_sha": "be4db2bab5e2397034790239f08ce4a7be8ef321",
