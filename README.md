@@ -1,6 +1,6 @@
 # Awesome IOCs with stars
 
-An [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,702 | 🐛 106 | 📅 2026-08-21 collection of indicators of compromise (and a few IOC related tools).
+An [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,905 | 🐛 106 | 📅 2026-08-21 collection of indicators of compromise (and a few IOC related tools).
 
 ## Contents
 
@@ -53,7 +53,7 @@ An [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,702 | 🐛 106 | �
 
 ### IOC Tools
 
-* [ninoseki/mitaka](https://github.com/ninoseki/mitaka#downloads) ⭐ 1,844 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-23 - Browser extension to lookup IoCs/observables on many sources.
+* [ninoseki/mitaka](https://github.com/ninoseki/mitaka#downloads) ⭐ 1,845 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-23 - Browser extension to lookup IoCs/observables on many sources.
 * [Neo23x0/yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,811 | 🐛 14 | 🌐 Python | 📅 2026-01-10 - yarGen is a generator for YARA rules.
 * [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor) ⭐ 924 | 🐛 15 | 🌐 Python | 📅 2026-05-26 - Flexible framework for consuming threat intelligence.
 * [InQuest/iocextract](https://github.com/inquest/python-iocextract) ⭐ 583 | 🐛 2 | 🌐 Python | 📅 2024-08-28 - Advanced Indicator of Compromise (IOC) extractor.
