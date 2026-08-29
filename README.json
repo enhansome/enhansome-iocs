@@ -17,7 +17,7 @@
                 "archived": false,
                 "id": 74331654,
                 "language": "Shell",
-                "last_commit": "2025-05-08T15:09:05Z",
+                "last_commit": "2026-08-29T03:03:05Z",
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
                 "stars": 997
@@ -33,7 +33,7 @@
                 "archived": false,
                 "id": 74331654,
                 "language": "Shell",
-                "last_commit": "2025-05-08T15:09:05Z",
+                "last_commit": "2026-08-29T03:03:05Z",
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
                 "stars": 997
@@ -49,7 +49,7 @@
                 "archived": false,
                 "id": 74331654,
                 "language": "Shell",
-                "last_commit": "2025-05-08T15:09:05Z",
+                "last_commit": "2026-08-29T03:03:05Z",
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
                 "stars": 997
@@ -61,7 +61,7 @@
             "archived": false,
             "id": 74331654,
             "language": "Shell",
-            "last_commit": "2025-05-08T15:09:05Z",
+            "last_commit": "2026-08-29T03:03:05Z",
             "owner": "sroberts",
             "repo": "awesome-iocs",
             "stars": 997
@@ -82,7 +82,7 @@
                 "archived": false,
                 "id": 74331654,
                 "language": "Shell",
-                "last_commit": "2025-05-08T15:09:05Z",
+                "last_commit": "2026-08-29T03:03:05Z",
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
                 "stars": 997
@@ -98,7 +98,7 @@
                 "archived": false,
                 "id": 74331654,
                 "language": "Shell",
-                "last_commit": "2025-05-08T15:09:05Z",
+                "last_commit": "2026-08-29T03:03:05Z",
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
                 "stars": 997
@@ -110,7 +110,7 @@
             "archived": false,
             "id": 74331654,
             "language": "Shell",
-            "last_commit": "2025-05-08T15:09:05Z",
+            "last_commit": "2026-08-29T03:03:05Z",
             "owner": "sroberts",
             "repo": "awesome-iocs",
             "stars": 997
@@ -513,10 +513,10 @@
                 "archived": false,
                 "id": 120834196,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:40:08Z",
+                "last_commit": "2026-08-29T02:16:58Z",
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1848
+                "stars": 1847
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -649,17 +649,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:32:42.236Z",
+    "last_updated": "2026-08-29T03:16:04.694Z",
     "original_repository_info": {
       "archived": false,
       "id": 74331654,
       "language": "Shell",
-      "last_commit": "2025-05-08T15:09:05Z",
+      "last_commit": "2026-08-29T03:03:05Z",
       "owner": "sroberts",
       "repo": "awesome-iocs",
       "stars": 997
     },
-    "original_repository_sha": "be4db2bab5e2397034790239f08ce4a7be8ef321",
+    "original_repository_sha": "cc086053b76405bc8a8f722431f8a7ff58f481d9",
     "enhanced_repository": "enhansome/enhansome-iocs",
     "enhanced_repository_description": null,
     "title": "Awesome IOCs with stars"
