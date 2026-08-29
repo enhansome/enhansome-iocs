@@ -1,6 +1,6 @@
 # Awesome IOCs with stars
 
-An [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,881 | 🐛 105 | 📅 2026-08-21 collection of indicators of compromise (and a few IOC related tools).
+An [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 collection of indicators of compromise (and a few IOC related tools).
 
 ## Contents
 

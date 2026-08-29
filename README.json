@@ -15,12 +15,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sources of indicators of compromise.",
+                "homepage": null,
                 "id": 74331654,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-29T03:03:05Z",
+                "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 997
+                "stars": 997,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "ioc",
+                  "signature",
+                  "yara-rules"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -31,12 +42,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sources of indicators of compromise.",
+                "homepage": null,
                 "id": 74331654,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-29T03:03:05Z",
+                "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 997
+                "stars": 997,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "ioc",
+                  "signature",
+                  "yara-rules"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -47,24 +69,46 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sources of indicators of compromise.",
+                "homepage": null,
                 "id": 74331654,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-29T03:03:05Z",
+                "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 997
+                "stars": 997,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "ioc",
+                  "signature",
+                  "yara-rules"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "A collection of sources of indicators of compromise.",
+            "homepage": null,
             "id": 74331654,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-29T03:03:05Z",
+            "open_issues": 7,
             "owner": "sroberts",
             "repo": "awesome-iocs",
-            "stars": 997
+            "stars": 997,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "ioc",
+              "signature",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T05:32:42.236Z"
         },
@@ -80,12 +124,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sources of indicators of compromise.",
+                "homepage": null,
                 "id": 74331654,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-29T03:03:05Z",
+                "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 997
+                "stars": 997,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "ioc",
+                  "signature",
+                  "yara-rules"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -96,24 +151,46 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of sources of indicators of compromise.",
+                "homepage": null,
                 "id": 74331654,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-29T03:03:05Z",
+                "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 997
+                "stars": 997,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "ioc",
+                  "signature",
+                  "yara-rules"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "A collection of sources of indicators of compromise.",
+            "homepage": null,
             "id": 74331654,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-29T03:03:05Z",
+            "open_issues": 7,
             "owner": "sroberts",
             "repo": "awesome-iocs",
-            "stars": 997
+            "stars": 997,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "ioc",
+              "signature",
+              "yara-rules"
+            ]
           },
           "first_seen": "2026-08-28T05:32:42.236Z"
         }
@@ -132,12 +209,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "YARA signature and IOC database for my scanners and tools",
+                "homepage": null,
                 "id": 51743885,
                 "language": "YARA",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-03T07:00:36Z",
+                "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3014
+                "stars": 3014,
+                "topics": [
+                  "anti-virus",
+                  "dfir",
+                  "hash",
+                  "ioc",
+                  "scanner",
+                  "signature",
+                  "threat-hunting",
+                  "threat-intelligence",
+                  "yara",
+                  "yara-rules"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -148,12 +241,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Indicators of Compromises (IOC) of our various investigations",
+                "homepage": "https://www.welivesecurity.com",
                 "id": 17713436,
                 "language": "YARA",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-06-25T15:55:53Z",
+                "open_issues": 0,
                 "owner": "eset",
                 "repo": "malware-ioc",
-                "stars": 1981
+                "stars": 1981,
+                "topics": [
+                  "ioc",
+                  "malware",
+                  "misp",
+                  "yara"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -164,12 +267,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "APTnotes data",
+                "homepage": null,
                 "id": 55239337,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-12-16T15:15:17Z",
+                "open_issues": 38,
                 "owner": "aptnotes",
                 "repo": "data",
-                "stars": 1810
+                "stars": 1810,
+                "topics": [
+                  "analysis",
+                  "apt",
+                  "malware"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -180,12 +292,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Indicators from Unit 42 Public Reports",
+                "homepage": null,
                 "id": 36872344,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-08-17T14:03:32Z",
+                "open_issues": 5,
                 "owner": "pan-unit42",
                 "repo": "iocs",
-                "stars": 728
+                "stars": 728,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -196,12 +313,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Leaked Linux.Mirai Source Code for Research/IoC Development Purposes",
+                "homepage": null,
                 "id": 69770751,
                 "language": "C",
+                "license": null,
                 "last_commit": "2017-02-17T09:12:44Z",
+                "open_issues": 1,
                 "owner": "0x27",
                 "repo": "linux.mirai",
-                "stars": 579
+                "stars": 579,
+                "topics": [
+                  "botnet",
+                  "ioc",
+                  "ioc-development",
+                  "iot",
+                  "leak",
+                  "linux",
+                  "malware",
+                  "malware-analysis",
+                  "malware-development",
+                  "malware-research",
+                  "mirai",
+                  "mirai-source"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -212,12 +347,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "FireEye Publicly Shared Indicators of Compromise (IOCs)",
+                "homepage": null,
                 "id": 23447777,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2019-01-19T18:22:23Z",
+                "open_issues": 2,
                 "owner": "mandiant",
                 "repo": "iocs",
-                "stars": 470
+                "stars": 470,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -228,12 +368,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Citizen Lab Malware Reports",
+                "homepage": "https://citizenlab.org/tag/malware/",
                 "id": 26464355,
                 "language": "YARA",
+                "license": null,
                 "last_commit": "2020-10-04T15:16:09Z",
+                "open_issues": 2,
                 "owner": "citizenlab",
                 "repo": "malware-indicators",
-                "stars": 284
+                "stars": 284,
+                "topics": [
+                  "ioc",
+                  "malware-research",
+                  "technical-indicators"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -244,12 +393,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of IOCs related to targeting of civil society",
+                "homepage": null,
                 "id": 69016483,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-11-11T02:25:48Z",
+                "open_issues": 4,
                 "owner": "botherder",
                 "repo": "targetedthreats",
-                "stars": 190
+                "stars": 190,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -260,12 +414,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Threat intelligence and threat detection indicators (IOC, IOA)",
+                "homepage": null,
                 "id": 308299358,
                 "language": "YARA",
+                "license": null,
                 "last_commit": "2020-11-27T15:14:53Z",
+                "open_issues": 0,
                 "owner": "swisscom",
                 "repo": "detections",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "detection",
+                  "indicators",
+                  "indicators-of-compromise",
+                  "threat-detection"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -276,12 +440,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The repository contains IOCs in CSV format for APT, Cyber Crimes, Malware and Trojan and whatever I found as part of hunting and research",
+                "homepage": null,
                 "id": 63378958,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-06-10T13:52:46Z",
+                "open_issues": 0,
                 "owner": "thirdeyeintelligence",
                 "repo": "IOCs-in-CSV-format",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -292,12 +461,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Indicators of compromise for threat intelligence",
+                "homepage": null,
                 "id": 69390314,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-09-27T22:08:29Z",
+                "open_issues": 0,
                 "owner": "jasonmiacono",
                 "repo": "IOCs",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -308,12 +482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NSHC ThreatRecon IoC Repository",
+                "homepage": null,
                 "id": 198187568,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-10-29T16:32:48Z",
+                "open_issues": 0,
                 "owner": "nshc-threatrecon",
                 "repo": "IoC-List",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             }
@@ -331,12 +510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A mixture of snort and suricata signatures",
+                "homepage": null,
                 "id": 40329907,
                 "language": null,
+                "license": null,
                 "last_commit": "2015-08-24T07:44:55Z",
+                "open_issues": 0,
                 "owner": "kingtuna",
                 "repo": "Signatures",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             }
@@ -354,12 +538,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository of yara rules",
+                "homepage": null,
                 "id": 33764615,
                 "language": "YARA",
+                "license": "GPL-2.0",
                 "last_commit": "2024-04-17T00:12:25Z",
+                "open_issues": 28,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4882
+                "stars": 4882,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -370,12 +559,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ReversingLabs YARA Rules",
+                "homepage": "http://www.reversinglabs.com",
                 "id": 275161916,
                 "language": "YARA",
+                "license": "MIT",
                 "last_commit": "2025-11-03T15:00:04Z",
+                "open_issues": 3,
                 "owner": "reversinglabs",
                 "repo": "reversinglabs-yara-rules",
-                "stars": 937
+                "stars": 937,
+                "topics": [
+                  "indicators-of-compromise",
+                  "malware-detection",
+                  "ransomware-detection",
+                  "ransomware-prevention",
+                  "reverse-engineering",
+                  "yara",
+                  "yara-rules",
+                  "yara-signatures"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -386,12 +589,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository of YARA rules made by Trellix ATR Team",
+                "homepage": null,
                 "id": 151364524,
                 "language": "YARA",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-18T15:17:48Z",
+                "open_issues": 0,
                 "owner": "advanced-threat-research",
                 "repo": "Yara-Rules",
-                "stars": 626
+                "stars": 626,
+                "topics": [
+                  "iocs",
+                  "threat-hunting",
+                  "threat-intelligence",
+                  "yara"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -402,12 +615,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of YARA rules we wish to share with the world, most probably referenced from http://blog.inquest.net.",
+                "homepage": null,
                 "id": 106597699,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-11T21:54:48Z",
+                "open_issues": 1,
                 "owner": "InQuest",
                 "repo": "yara-rules",
-                "stars": 390
+                "stars": 390,
+                "topics": [
+                  "threat-hunting",
+                  "yara",
+                  "yara-rules",
+                  "yara-signatures"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -418,12 +641,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yara rules for malware families seen as part of targeted threats project",
+                "homepage": null,
                 "id": 19461249,
                 "language": "VimL",
+                "license": null,
                 "last_commit": "2016-11-17T19:27:09Z",
+                "open_issues": 1,
                 "owner": "citizenlab",
                 "repo": "malware-signatures",
-                "stars": 145
+                "stars": 145,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -434,12 +662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 185764221,
                 "language": "YARA",
+                "license": "MIT",
                 "last_commit": "2025-02-02T17:45:23Z",
+                "open_issues": 0,
                 "owner": "intezer",
                 "repo": "yara-rules",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -450,12 +683,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various Yara signatures (possibly to be included in a release later).",
+                "homepage": null,
                 "id": 36986077,
                 "language": "YARA",
+                "license": null,
                 "last_commit": "2019-05-23T08:44:55Z",
+                "open_issues": 0,
                 "owner": "x64dbg",
                 "repo": "yarasigs",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -466,12 +704,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "My Yara Rules Collection",
+                "homepage": null,
                 "id": 32225059,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-02-07T22:44:16Z",
+                "open_issues": 0,
                 "owner": "kevthehermit",
                 "repo": "YaraRules",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -482,12 +725,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Multiple rules for yara-project for detect compiler/packer/protector",
+                "homepage": null,
                 "id": 8857353,
                 "language": "YARA",
+                "license": null,
                 "last_commit": "2019-12-24T14:18:55Z",
+                "open_issues": 0,
                 "owner": "0pc0deFR",
                 "repo": "YaraRules",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             }
@@ -511,12 +759,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A browser extension for OSINT search",
+                "homepage": null,
                 "id": 120834196,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-29T02:16:58Z",
+                "open_issues": 1,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1847
+                "stars": 1847,
+                "topics": [
+                  "chrome-extension",
+                  "osint",
+                  "security",
+                  "threat-intelligence"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -527,12 +785,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "yarGen is a generator for YARA rules",
+                "homepage": null,
                 "id": 15494190,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-10T15:02:41Z",
+                "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "yarGen",
-                "stars": 1811
+                "stars": 1811,
+                "topics": [
+                  "malware",
+                  "malware-analysis",
+                  "malware-research",
+                  "malwareanalysis",
+                  "python",
+                  "yara"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -543,12 +813,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extract and aggregate threat intelligence.",
+                "homepage": "https://inquest.readthedocs.io/projects/threatingestor/",
                 "id": 102033255,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2026-05-26T15:01:24Z",
+                "open_issues": 15,
                 "owner": "pedramamini",
                 "repo": "ThreatIngestor",
-                "stars": 924
+                "stars": 924,
+                "topics": [
+                  "dfir",
+                  "fraud-detection",
+                  "indicators-of-compromise",
+                  "intelligence-gathering",
+                  "ioc",
+                  "malware-research",
+                  "misp",
+                  "osint",
+                  "security-tools",
+                  "soar",
+                  "threat-analysis",
+                  "threat-feeds",
+                  "threat-hunting",
+                  "threat-intelligence",
+                  "threat-intelligence-platform",
+                  "threat-sharing",
+                  "threatintel",
+                  "yara"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -559,12 +853,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Defanged Indicator of Compromise (IOC) Extractor.",
+                "homepage": "https://inquest.readthedocs.io/projects/iocextract/",
                 "id": 129942209,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2024-08-28T16:04:18Z",
+                "open_issues": 2,
                 "owner": "pedramamini",
                 "repo": "iocextract",
-                "stars": 584
+                "stars": 584,
+                "topics": [
+                  "base64",
+                  "decoding",
+                  "defang",
+                  "dfir",
+                  "indicators-of-compromise",
+                  "ioc",
+                  "ioc-extractor",
+                  "library",
+                  "malware-research",
+                  "osint",
+                  "threat-intelligence",
+                  "threat-sharing",
+                  "threatintel",
+                  "yara"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -575,12 +889,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 11642168,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-03T10:16:22Z",
+                "open_issues": 2,
                 "owner": "mandiant",
                 "repo": "ioc_writer",
-                "stars": 207
+                "stars": 207,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -591,12 +910,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Python IOC Editor",
+                "homepage": null,
                 "id": 22967752,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2015-03-10T03:58:58Z",
+                "open_issues": 0,
                 "owner": "YahooArchive",
                 "repo": "PyIOCe",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             }
@@ -614,12 +938,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 12087980,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2021-06-11T14:43:22Z",
+                "open_issues": 3,
                 "owner": "fireeye",
                 "repo": "OpenIOC_1.1",
-                "stars": 137
+                "stars": 137,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -630,12 +959,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Specifications used in the MISP project including MISP core format",
+                "homepage": null,
                 "id": 69732335,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-08-06T20:40:32Z",
+                "open_issues": 11,
                 "owner": "MISP",
                 "repo": "misp-rfc",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "information-exchange",
+                  "internet-draft",
+                  "json-format",
+                  "misp",
+                  "misp-format",
+                  "misp-taxonomy",
+                  "protocol",
+                  "standard",
+                  "threat-sharing"
+                ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             }
@@ -649,15 +993,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:16:04.694Z",
+    "last_updated": "2026-08-29T04:33:56.945Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of sources of indicators of compromise.",
+      "homepage": null,
       "id": 74331654,
       "language": "Shell",
+      "license": "NOASSERTION",
       "last_commit": "2026-08-29T03:03:05Z",
+      "open_issues": 7,
       "owner": "sroberts",
       "repo": "awesome-iocs",
-      "stars": 997
+      "stars": 997,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "ioc",
+        "signature",
+        "yara-rules"
+      ]
     },
     "original_repository_sha": "cc086053b76405bc8a8f722431f8a7ff58f481d9",
     "enhanced_repository": "enhansome/enhansome-iocs",
