@@ -218,7 +218,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3014,
+                "stars": 3015,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -547,7 +547,7 @@
                 "open_issues": 28,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4882,
+                "stars": 4881,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -822,7 +822,7 @@
                 "open_issues": 15,
                 "owner": "pedramamini",
                 "repo": "ThreatIngestor",
-                "stars": 924,
+                "stars": 925,
                 "topics": [
                   "dfir",
                   "fraud-detection",
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:33:56.945Z",
+    "last_updated": "2026-08-29T23:31:18.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of sources of indicators of compromise.",
