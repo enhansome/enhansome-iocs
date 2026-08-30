@@ -276,7 +276,7 @@
                 "open_issues": 38,
                 "owner": "aptnotes",
                 "repo": "data",
-                "stars": 1810,
+                "stars": 1811,
                 "topics": [
                   "analysis",
                   "apt",
@@ -621,7 +621,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2022-05-11T21:54:48Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "InQuest",
                 "repo": "yara-rules",
                 "stars": 390,
@@ -768,7 +768,7 @@
                 "open_issues": 1,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1847,
+                "stars": 1848,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -822,7 +822,7 @@
                 "open_issues": 15,
                 "owner": "pedramamini",
                 "repo": "ThreatIngestor",
-                "stars": 925,
+                "stars": 926,
                 "topics": [
                   "dfir",
                   "fraud-detection",
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:31:18.580Z",
+    "last_updated": "2026-08-30T23:43:21.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of sources of indicators of compromise.",
