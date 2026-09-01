@@ -24,7 +24,7 @@
                 "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 998,
+                "stars": 999,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -51,7 +51,7 @@
                 "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 998,
+                "stars": 999,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -78,7 +78,7 @@
                 "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 998,
+                "stars": 999,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -101,7 +101,7 @@
             "open_issues": 7,
             "owner": "sroberts",
             "repo": "awesome-iocs",
-            "stars": 998,
+            "stars": 999,
             "topics": [
               "awesome",
               "awesome-list",
@@ -133,7 +133,7 @@
                 "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 998,
+                "stars": 999,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -160,7 +160,7 @@
                 "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 998,
+                "stars": 999,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -183,7 +183,7 @@
             "open_issues": 7,
             "owner": "sroberts",
             "repo": "awesome-iocs",
-            "stars": 998,
+            "stars": 999,
             "topics": [
               "awesome",
               "awesome-list",
@@ -215,10 +215,10 @@
                 "language": "YARA",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-31T19:47:24Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3015,
+                "stars": 3017,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -250,7 +250,7 @@
                 "open_issues": 0,
                 "owner": "eset",
                 "repo": "malware-ioc",
-                "stars": 1981,
+                "stars": 1980,
                 "topics": [
                   "ioc",
                   "malware",
@@ -794,7 +794,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "yarGen",
-                "stars": 1811,
+                "stars": 1812,
                 "topics": [
                   "malware",
                   "malware-analysis",
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:44:45.718Z",
+    "last_updated": "2026-09-01T23:28:41.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of sources of indicators of compromise.",
@@ -1005,7 +1005,7 @@
       "open_issues": 7,
       "owner": "sroberts",
       "repo": "awesome-iocs",
-      "stars": 998,
+      "stars": 999,
       "topics": [
         "awesome",
         "awesome-list",
