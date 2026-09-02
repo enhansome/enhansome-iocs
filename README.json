@@ -218,7 +218,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3017,
+                "stars": 3018,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -250,7 +250,7 @@
                 "open_issues": 0,
                 "owner": "eset",
                 "repo": "malware-ioc",
-                "stars": 1980,
+                "stars": 1982,
                 "topics": [
                   "ioc",
                   "malware",
@@ -768,7 +768,7 @@
                 "open_issues": 1,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1848,
+                "stars": 1849,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -794,7 +794,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "yarGen",
-                "stars": 1812,
+                "stars": 1811,
                 "topics": [
                   "malware",
                   "malware-analysis",
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:28:41.471Z",
+    "last_updated": "2026-09-02T23:30:20.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of sources of indicators of compromise.",
