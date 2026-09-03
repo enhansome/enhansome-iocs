@@ -24,7 +24,7 @@
                 "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 999,
+                "stars": 1000,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -51,7 +51,7 @@
                 "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 999,
+                "stars": 1000,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -78,7 +78,7 @@
                 "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 999,
+                "stars": 1000,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -101,7 +101,7 @@
             "open_issues": 7,
             "owner": "sroberts",
             "repo": "awesome-iocs",
-            "stars": 999,
+            "stars": 1000,
             "topics": [
               "awesome",
               "awesome-list",
@@ -133,7 +133,7 @@
                 "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 999,
+                "stars": 1000,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -160,7 +160,7 @@
                 "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 999,
+                "stars": 1000,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -183,7 +183,7 @@
             "open_issues": 7,
             "owner": "sroberts",
             "repo": "awesome-iocs",
-            "stars": 999,
+            "stars": 1000,
             "topics": [
               "awesome",
               "awesome-list",
@@ -218,7 +218,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3018,
+                "stars": 3019,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -276,7 +276,7 @@
                 "open_issues": 38,
                 "owner": "aptnotes",
                 "repo": "data",
-                "stars": 1811,
+                "stars": 1813,
                 "topics": [
                   "analysis",
                   "apt",
@@ -547,7 +547,7 @@
                 "open_issues": 27,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4882,
+                "stars": 4881,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -764,11 +764,11 @@
                 "id": 120834196,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T02:16:58Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-03T00:24:14Z",
+                "open_issues": 2,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1849,
+                "stars": 1846,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -794,7 +794,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "yarGen",
-                "stars": 1811,
+                "stars": 1812,
                 "topics": [
                   "malware",
                   "malware-analysis",
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T23:30:20.016Z",
+    "last_updated": "2026-09-03T23:27:26.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of sources of indicators of compromise.",
@@ -1005,7 +1005,7 @@
       "open_issues": 7,
       "owner": "sroberts",
       "repo": "awesome-iocs",
-      "stars": 999,
+      "stars": 1000,
       "topics": [
         "awesome",
         "awesome-list",
