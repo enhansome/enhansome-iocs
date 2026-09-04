@@ -218,7 +218,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3019,
+                "stars": 3020,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -547,7 +547,7 @@
                 "open_issues": 27,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4881,
+                "stars": 4883,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -768,7 +768,7 @@
                 "open_issues": 2,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1846,
+                "stars": 1847,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -794,7 +794,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "yarGen",
-                "stars": 1812,
+                "stars": 1813,
                 "topics": [
                   "malware",
                   "malware-analysis",
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:27:26.700Z",
+    "last_updated": "2026-09-04T23:11:29.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of sources of indicators of compromise.",

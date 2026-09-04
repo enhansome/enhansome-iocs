@@ -1,6 +1,6 @@
 # Awesome IOCs with stars
 
-An [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,708 | 🐛 106 | 📅 2026-09-02 collection of indicators of compromise (and a few IOC related tools).
+An [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,010 | 🐛 106 | 📅 2026-09-02 collection of indicators of compromise (and a few IOC related tools).
 
 ## Contents
 
@@ -16,7 +16,7 @@ An [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,708 | 🐛 106 | �
 
 ### Indicators
 
-* [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) ⭐ 3,019 | 🐛 14 | 🌐 YARA | 📅 2026-08-31 - Signature base for my scanner tools.
+* [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) ⭐ 3,020 | 🐛 14 | 🌐 YARA | 📅 2026-08-31 - Signature base for my scanner tools.
 * [eset/malware-ioc](https://github.com/eset/malware-ioc) ⭐ 1,982 | 🐛 0 | 🌐 YARA | 📅 2026-06-25 - Indicators of Compromises (IOC) of our various investigations.
 * [aptnotes/data](https://github.com/aptnotes/data) ⭐ 1,813 | 🐛 38 | 📅 2024-12-16 - APTnotes data.
 * [pan-unit42/iocs](https://github.com/pan-unit42/iocs) ⚠️ Archived - Indicators from Unit 42 Public Reports.
@@ -39,7 +39,7 @@ An [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,708 | 🐛 106 | �
 
 ### Yara Signatures
 
-* [Yara-Rules/rules](https://github.com/Yara-Rules/rules) ⭐ 4,881 | 🐛 27 | 🌐 YARA | 📅 2024-04-17 - Repository of yara rules.
+* [Yara-Rules/rules](https://github.com/Yara-Rules/rules) ⭐ 4,883 | 🐛 27 | 🌐 YARA | 📅 2024-04-17 - Repository of yara rules.
 * [reversinglabs/reversinglabs-yara-rules](https://github.com/reversinglabs/reversinglabs-yara-rules) ⭐ 937 | 🐛 2 | 🌐 YARA | 📅 2025-11-03 - ReversingLabs YARA Rules.
 * [advanced-threat-research/Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules) ⭐ 626 | 🐛 0 | 🌐 YARA | 📅 2025-03-18 - Repository of YARA rules made by McAfee ATR Team
 * [InQuest/yara-rules](https://github.com/InQuest/yara-rules) ⭐ 390 | 🐛 2 | 🌐 Python | 📅 2022-05-11 - A collection of Yara rules we wish to share with the world, most probably referenced from <http://blog.inquest.net>.
@@ -54,8 +54,8 @@ An [awesome](https://github.com/sindresorhus/awesome) ⭐ 502,708 | 🐛 106 | �
 
 ### IOC Tools
 
-* [ninoseki/mitaka](https://github.com/ninoseki/mitaka#downloads) ⭐ 1,846 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-03 - Browser extension to lookup IoCs/observables on many sources.
-* [Neo23x0/yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,812 | 🐛 14 | 🌐 Python | 📅 2026-01-10 - yarGen is a generator for YARA rules.
+* [ninoseki/mitaka](https://github.com/ninoseki/mitaka#downloads) ⭐ 1,847 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-03 - Browser extension to lookup IoCs/observables on many sources.
+* [Neo23x0/yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,813 | 🐛 14 | 🌐 Python | 📅 2026-01-10 - yarGen is a generator for YARA rules.
 * [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor) ⭐ 926 | 🐛 15 | 🌐 Python | 📅 2026-05-26 - Flexible framework for consuming threat intelligence.
 * [InQuest/iocextract](https://github.com/inquest/python-iocextract) ⭐ 584 | 🐛 2 | 🌐 Python | 📅 2024-08-28 - Advanced Indicator of Compromise (IOC) extractor.
 * [mandiant/ioc\_writer](https://github.com/mandiant/ioc_writer) ⚠️ Archived - Provide a python library that allows for basic creation and editing of OpenIOC objects.
@@ -77,4 +77,4 @@ Public Domain Dedication license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
