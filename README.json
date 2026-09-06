@@ -24,7 +24,7 @@
                 "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 1000,
+                "stars": 1001,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -51,7 +51,7 @@
                 "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 1000,
+                "stars": 1001,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -78,7 +78,7 @@
                 "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 1000,
+                "stars": 1001,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -101,7 +101,7 @@
             "open_issues": 7,
             "owner": "sroberts",
             "repo": "awesome-iocs",
-            "stars": 1000,
+            "stars": 1001,
             "topics": [
               "awesome",
               "awesome-list",
@@ -133,7 +133,7 @@
                 "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 1000,
+                "stars": 1001,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -160,7 +160,7 @@
                 "open_issues": 7,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
-                "stars": 1000,
+                "stars": 1001,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -183,7 +183,7 @@
             "open_issues": 7,
             "owner": "sroberts",
             "repo": "awesome-iocs",
-            "stars": 1000,
+            "stars": 1001,
             "topics": [
               "awesome",
               "awesome-list",
@@ -273,7 +273,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-12-16T15:15:17Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "aptnotes",
                 "repo": "data",
                 "stars": 1814,
@@ -547,7 +547,7 @@
                 "open_issues": 27,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4883,
+                "stars": 4884,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -568,7 +568,7 @@
                 "open_issues": 2,
                 "owner": "reversinglabs",
                 "repo": "reversinglabs-yara-rules",
-                "stars": 937,
+                "stars": 938,
                 "topics": [
                   "indicators-of-compromise",
                   "malware-detection",
@@ -822,7 +822,7 @@
                 "open_issues": 15,
                 "owner": "pedramamini",
                 "repo": "ThreatIngestor",
-                "stars": 926,
+                "stars": 925,
                 "topics": [
                   "dfir",
                   "fraud-detection",
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:09:19.160Z",
+    "last_updated": "2026-09-06T23:00:47.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of sources of indicators of compromise.",
@@ -1005,7 +1005,7 @@
       "open_issues": 7,
       "owner": "sroberts",
       "repo": "awesome-iocs",
-      "stars": 1000,
+      "stars": 1001,
       "topics": [
         "awesome",
         "awesome-list",
