@@ -218,7 +218,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3022,
+                "stars": 3024,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -547,7 +547,7 @@
                 "open_issues": 27,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4890,
+                "stars": 4892,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -764,11 +764,11 @@
                 "id": 120834196,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T00:24:14Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-10T02:56:50Z",
+                "open_issues": 4,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1851,
+                "stars": 1853,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -791,7 +791,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-01-10T15:02:41Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "Neo23x0",
                 "repo": "yarGen",
                 "stars": 1814,
@@ -822,7 +822,7 @@
                 "open_issues": 15,
                 "owner": "pedramamini",
                 "repo": "ThreatIngestor",
-                "stars": 925,
+                "stars": 927,
                 "topics": [
                   "dfir",
                   "fraud-detection",
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:27:11.862Z",
+    "last_updated": "2026-09-10T23:20:39.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of sources of indicators of compromise.",
