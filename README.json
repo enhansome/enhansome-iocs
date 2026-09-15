@@ -276,7 +276,7 @@
                 "open_issues": 32,
                 "owner": "aptnotes",
                 "repo": "data",
-                "stars": 1814,
+                "stars": 1815,
                 "topics": [
                   "analysis",
                   "apt",
@@ -301,7 +301,7 @@
                 "open_issues": 5,
                 "owner": "pan-unit42",
                 "repo": "iocs",
-                "stars": 727,
+                "stars": 726,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -568,7 +568,7 @@
                 "open_issues": 2,
                 "owner": "reversinglabs",
                 "repo": "reversinglabs-yara-rules",
-                "stars": 941,
+                "stars": 942,
                 "topics": [
                   "indicators-of-compromise",
                   "malware-detection",
@@ -768,7 +768,7 @@
                 "open_issues": 4,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1856,
+                "stars": 1857,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:57:42.369Z",
+    "last_updated": "2026-09-15T23:35:44.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of sources of indicators of compromise.",
