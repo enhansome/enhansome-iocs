@@ -246,7 +246,7 @@
                 "id": 17713436,
                 "language": "YARA",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-06-25T15:55:53Z",
+                "last_commit": "2026-09-17T16:27:41Z",
                 "open_issues": 0,
                 "owner": "eset",
                 "repo": "malware-ioc",
@@ -276,7 +276,7 @@
                 "open_issues": 32,
                 "owner": "aptnotes",
                 "repo": "data",
-                "stars": 1816,
+                "stars": 1817,
                 "topics": [
                   "analysis",
                   "apt",
@@ -322,7 +322,7 @@
                 "open_issues": 1,
                 "owner": "0x27",
                 "repo": "linux.mirai",
-                "stars": 580,
+                "stars": 581,
                 "topics": [
                   "botnet",
                   "ioc",
@@ -547,7 +547,7 @@
                 "open_issues": 27,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4896,
+                "stars": 4897,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -764,11 +764,11 @@
                 "id": 120834196,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T02:56:50Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-17T11:47:06Z",
+                "open_issues": 5,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1859,
+                "stars": 1861,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -794,7 +794,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "yarGen",
-                "stars": 1812,
+                "stars": 1813,
                 "topics": [
                   "malware",
                   "malware-analysis",
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:44:55.340Z",
+    "last_updated": "2026-09-17T23:37:16.658Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of sources of indicators of compromise.",
