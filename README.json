@@ -250,7 +250,7 @@
                 "open_issues": 0,
                 "owner": "eset",
                 "repo": "malware-ioc",
-                "stars": 1982,
+                "stars": 1981,
                 "topics": [
                   "ioc",
                   "malware",
@@ -547,7 +547,7 @@
                 "open_issues": 27,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4897,
+                "stars": 4895,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -568,7 +568,7 @@
                 "open_issues": 2,
                 "owner": "reversinglabs",
                 "repo": "reversinglabs-yara-rules",
-                "stars": 942,
+                "stars": 943,
                 "topics": [
                   "indicators-of-compromise",
                   "malware-detection",
@@ -822,7 +822,7 @@
                 "open_issues": 15,
                 "owner": "pedramamini",
                 "repo": "ThreatIngestor",
-                "stars": 929,
+                "stars": 930,
                 "topics": [
                   "dfir",
                   "fraud-detection",
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T23:29:45.753Z",
+    "last_updated": "2026-09-19T23:22:54.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of sources of indicators of compromise.",
