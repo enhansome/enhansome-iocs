@@ -218,7 +218,7 @@
                 "open_issues": 17,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3028,
+                "stars": 3031,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -250,7 +250,7 @@
                 "open_issues": 0,
                 "owner": "eset",
                 "repo": "malware-ioc",
-                "stars": 1981,
+                "stars": 1983,
                 "topics": [
                   "ioc",
                   "malware",
@@ -544,10 +544,10 @@
                 "language": "YARA",
                 "license": "GPL-2.0",
                 "last_commit": "2024-04-17T00:12:25Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4894,
+                "stars": 4895,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -598,7 +598,7 @@
                 "open_issues": 0,
                 "owner": "advanced-threat-research",
                 "repo": "Yara-Rules",
-                "stars": 628,
+                "stars": 629,
                 "topics": [
                   "iocs",
                   "threat-hunting",
@@ -713,7 +713,7 @@
                 "open_issues": 0,
                 "owner": "kevthehermit",
                 "repo": "YaraRules",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -794,7 +794,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "yarGen",
-                "stars": 1814,
+                "stars": 1813,
                 "topics": [
                   "malware",
                   "malware-analysis",
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T23:22:18.517Z",
+    "last_updated": "2026-09-22T00:13:53.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of sources of indicators of compromise.",
