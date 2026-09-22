@@ -218,7 +218,7 @@
                 "open_issues": 17,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3031,
+                "stars": 3033,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -250,7 +250,7 @@
                 "open_issues": 0,
                 "owner": "eset",
                 "repo": "malware-ioc",
-                "stars": 1983,
+                "stars": 1984,
                 "topics": [
                   "ioc",
                   "malware",
@@ -276,7 +276,7 @@
                 "open_issues": 32,
                 "owner": "aptnotes",
                 "repo": "data",
-                "stars": 1817,
+                "stars": 1816,
                 "topics": [
                   "analysis",
                   "apt",
@@ -547,7 +547,7 @@
                 "open_issues": 28,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4895,
+                "stars": 4897,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -768,7 +768,7 @@
                 "open_issues": 5,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1863,
+                "stars": 1864,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -822,7 +822,7 @@
                 "open_issues": 15,
                 "owner": "pedramamini",
                 "repo": "ThreatIngestor",
-                "stars": 930,
+                "stars": 931,
                 "topics": [
                   "dfir",
                   "fraud-detection",
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:13:53.847Z",
+    "last_updated": "2026-09-22T23:43:35.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of sources of indicators of compromise.",
