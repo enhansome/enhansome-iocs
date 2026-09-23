@@ -1,6 +1,6 @@
 # Awesome IOCs with stars
 
-An [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,021 | 🐛 106 | 📅 2026-09-02 collection of indicators of compromise (and a few IOC related tools).
+An [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,450 | 🐛 106 | 📅 2026-09-02 collection of indicators of compromise (and a few IOC related tools).
 
 ## Contents
 
@@ -20,7 +20,7 @@ An [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,021 | 🐛 106 | �
 * [eset/malware-ioc](https://github.com/eset/malware-ioc) ⭐ 1,984 | 🐛 0 | 🌐 YARA | 📅 2026-09-17 - Indicators of Compromises (IOC) of our various investigations.
 * [aptnotes/data](https://github.com/aptnotes/data) ⭐ 1,816 | 🐛 32 | 📅 2024-12-16 - APTnotes data.
 * [pan-unit42/iocs](https://github.com/pan-unit42/iocs) ⚠️ Archived - Indicators from Unit 42 Public Reports.
-* [0x27/linux.mirai](https://github.com/0x27/linux.mirai) ⭐ 581 | 🐛 1 | 🌐 C | 📅 2017-02-17 - Leaked Linux.Mirai Source Code for Research/IoC Development Purposes.
+* [0x27/linux.mirai](https://github.com/0x27/linux.mirai) ⭐ 582 | 🐛 1 | 🌐 C | 📅 2017-02-17 - Leaked Linux.Mirai Source Code for Research/IoC Development Purposes.
 * [fireeye/iocs](https://github.com/fireeye/iocs) ⚠️ Archived - FireEye Publicly Shared Indicators of Compromise (IOCs).
 * [citizenlab/malware-indicators](https://github.com/citizenlab/malware-indicators) ⭐ 285 | 🐛 2 | 🌐 YARA | 📅 2020-10-04 - Citizen Lab Malware Reports.
 * [botherder/targetedthreats](https://github.com/botherder/targetedthreats) ⭐ 190 | 🐛 4 | 🌐 Python | 📅 2021-11-11 - Collection of IOCs related to targeting of civil society.
@@ -39,13 +39,13 @@ An [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,021 | 🐛 106 | �
 
 ### Yara Signatures
 
-* [Yara-Rules/rules](https://github.com/Yara-Rules/rules) ⭐ 4,897 | 🐛 28 | 🌐 YARA | 📅 2024-04-17 - Repository of yara rules.
+* [Yara-Rules/rules](https://github.com/Yara-Rules/rules) ⭐ 4,899 | 🐛 28 | 🌐 YARA | 📅 2024-04-17 - Repository of yara rules.
 * [reversinglabs/reversinglabs-yara-rules](https://github.com/reversinglabs/reversinglabs-yara-rules) ⭐ 944 | 🐛 2 | 🌐 YARA | 📅 2025-11-03 - ReversingLabs YARA Rules.
 * [advanced-threat-research/Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules) ⭐ 629 | 🐛 0 | 🌐 YARA | 📅 2025-03-18 - Repository of YARA rules made by McAfee ATR Team
 * [InQuest/yara-rules](https://github.com/InQuest/yara-rules) ⭐ 390 | 🐛 2 | 🌐 Python | 📅 2022-05-11 - A collection of Yara rules we wish to share with the world, most probably referenced from <http://blog.inquest.net>.
-* [citizenlab/malware-signatures](https://github.com/citizenlab/malware-signatures) ⭐ 145 | 🐛 1 | 🌐 VimL | 📅 2016-11-17 - Yara rules for malware families seen as part of targeted threats project.
+* [citizenlab/malware-signatures](https://github.com/citizenlab/malware-signatures) ⭐ 144 | 🐛 1 | 🌐 VimL | 📅 2016-11-17 - Yara rules for malware families seen as part of targeted threats project.
 * [intezer/yara-rules](https://github.com/intezer/yara-rules) ⭐ 131 | 🐛 0 | 🌐 YARA | 📅 2025-02-02 - Yara rules from Intezer.
-* [x64dbg/yarasigs](https://github.com/x64dbg/yarasigs) ⭐ 87 | 🐛 0 | 🌐 YARA | 📅 2019-05-23 - Various Yara signatures (possibly to be included in a release later).
+* [x64dbg/yarasigs](https://github.com/x64dbg/yarasigs) ⭐ 88 | 🐛 0 | 🌐 YARA | 📅 2019-05-23 - Various Yara signatures (possibly to be included in a release later).
 * [kevthehermit/YaraRules](https://github.com/kevthehermit/YaraRules) ⭐ 53 | 🐛 0 | 📅 2016-02-07 - My Yara Rules Collection.
 * [0pc0deFR/YaraRules](https://github.com/0pc0deFR/YaraRules) ⚠️ Archived - Multiple rules for yara-project for detect compiler/packer/protector.
 * [OALabs/iocs](https://github.com/OALabs/iocs) - Machine-digestible malware indicators.
@@ -77,4 +77,4 @@ Public Domain Dedication license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

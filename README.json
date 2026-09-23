@@ -322,7 +322,7 @@
                 "open_issues": 1,
                 "owner": "0x27",
                 "repo": "linux.mirai",
-                "stars": 581,
+                "stars": 582,
                 "topics": [
                   "botnet",
                   "ioc",
@@ -547,7 +547,7 @@
                 "open_issues": 28,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4897,
+                "stars": 4899,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -650,7 +650,7 @@
                 "open_issues": 1,
                 "owner": "citizenlab",
                 "repo": "malware-signatures",
-                "stars": 145,
+                "stars": 144,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -692,7 +692,7 @@
                 "open_issues": 0,
                 "owner": "x64dbg",
                 "repo": "yarasigs",
-                "stars": 87,
+                "stars": 88,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:43:35.543Z",
+    "last_updated": "2026-09-23T23:53:17.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of sources of indicators of compromise.",
