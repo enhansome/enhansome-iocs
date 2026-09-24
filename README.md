@@ -1,36 +1,35 @@
 # Awesome IOCs with stars
 
-An [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,450 | 🐛 106 | 📅 2026-09-02 collection of indicators of compromise (and a few IOC related tools).
+An [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,964 | 🐛 107 | 📅 2026-09-02 collection of indicators of compromise (and a few IOC related tools).
 
 ## Contents
 
-* [IOCs](https://github.com/sroberts/awesome-iocs#iocs) ⭐ 1,004 | 🐛 8 | 🌐 Shell | 📅 2026-08-29
-  * [Indicators](https://github.com/sroberts/awesome-iocs#indicators) ⭐ 1,004 | 🐛 8 | 🌐 Shell | 📅 2026-08-29
-  * [Snort Signatures](https://github.com/sroberts/awesome-iocs#snort-signatures) ⭐ 1,004 | 🐛 8 | 🌐 Shell | 📅 2026-08-29
-  * [Yara Signatures](https://github.com/sroberts/awesome-iocs#yara-signatures) ⭐ 1,004 | 🐛 8 | 🌐 Shell | 📅 2026-08-29
-* [Tools](https://github.com/sroberts/awesome-iocs#tools) ⭐ 1,004 | 🐛 8 | 🌐 Shell | 📅 2026-08-29
-  * [IOC Tools](https://github.com/sroberts/awesome-iocs#ioc-tools) ⭐ 1,004 | 🐛 8 | 🌐 Shell | 📅 2026-08-29
-  * [IOC Formats](https://github.com/sroberts/awesome-iocs#ioc-formats) ⭐ 1,004 | 🐛 8 | 🌐 Shell | 📅 2026-08-29
+* [IOCs](https://github.com/sroberts/awesome-iocs#iocs) ⭐ 1,004 | 🐛 8 | 🌐 Shell | 📅 2026-09-24
+  * [Indicators](https://github.com/sroberts/awesome-iocs#indicators) ⭐ 1,004 | 🐛 8 | 🌐 Shell | 📅 2026-09-24
+  * [Snort Signatures](https://github.com/sroberts/awesome-iocs#snort-signatures) ⭐ 1,004 | 🐛 8 | 🌐 Shell | 📅 2026-09-24
+  * [Yara Signatures](https://github.com/sroberts/awesome-iocs#yara-signatures) ⭐ 1,004 | 🐛 8 | 🌐 Shell | 📅 2026-09-24
+* [Tools](https://github.com/sroberts/awesome-iocs#tools) ⭐ 1,004 | 🐛 8 | 🌐 Shell | 📅 2026-09-24
+  * [IOC Tools](https://github.com/sroberts/awesome-iocs#ioc-tools) ⭐ 1,004 | 🐛 8 | 🌐 Shell | 📅 2026-09-24
+  * [IOC Formats](https://github.com/sroberts/awesome-iocs#ioc-formats) ⭐ 1,004 | 🐛 8 | 🌐 Shell | 📅 2026-09-24
 
 ## IOCs
 
 ### Indicators
 
 * [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) ⭐ 3,033 | 🐛 17 | 🌐 YARA | 📅 2026-09-08 - Signature base for my scanner tools.
-* [eset/malware-ioc](https://github.com/eset/malware-ioc) ⭐ 1,984 | 🐛 0 | 🌐 YARA | 📅 2026-09-17 - Indicators of Compromises (IOC) of our various investigations.
-* [aptnotes/data](https://github.com/aptnotes/data) ⭐ 1,816 | 🐛 32 | 📅 2024-12-16 - APTnotes data.
-* [pan-unit42/iocs](https://github.com/pan-unit42/iocs) ⚠️ Archived - Indicators from Unit 42 Public Reports.
+* [eset/malware-ioc](https://github.com/eset/malware-ioc) ⭐ 1,983 | 🐛 0 | 🌐 YARA | 📅 2026-09-17 - Indicators of Compromises (IOC) of our various investigations.
+* [aptnotes/data](https://github.com/aptnotes/data) ⭐ 1,815 | 🐛 32 | 📅 2024-12-16 - APTnotes data.
 * [0x27/linux.mirai](https://github.com/0x27/linux.mirai) ⭐ 582 | 🐛 1 | 🌐 C | 📅 2017-02-17 - Leaked Linux.Mirai Source Code for Research/IoC Development Purposes.
-* [fireeye/iocs](https://github.com/fireeye/iocs) ⚠️ Archived - FireEye Publicly Shared Indicators of Compromise (IOCs).
+* [mandiant/iocs](https://github.com/mandiant/iocs) ⚠️ Archived - FireEye Publicly Shared Indicators of Compromise (IOCs). Archived; last updated 2019.
 * [citizenlab/malware-indicators](https://github.com/citizenlab/malware-indicators) ⭐ 285 | 🐛 2 | 🌐 YARA | 📅 2020-10-04 - Citizen Lab Malware Reports.
 * [botherder/targetedthreats](https://github.com/botherder/targetedthreats) ⭐ 190 | 🐛 4 | 🌐 Python | 📅 2021-11-11 - Collection of IOCs related to targeting of civil society.
-* [swisscom/detections](https://github.com/swisscom/detections) ⚠️ Archived - This repo contains threat intelligence information and threat detection indicators (IOC, IOA) shared by Swisscom CSIRT.
-* [makflwana/IOCs-in-CSV-format](https://github.com/makflwana/IOCs-in-CSV-format) ⭐ 12 | 🐛 0 | 📅 2017-06-10 - The repository contains IOCs in CSV format for APT, Cyber Crimes, Malware and Trojan and whatever I found as part of hunting and research.
+* [PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information](https://github.com/PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information) ⭐ 118 | 🐛 0 | 🌐 Python | 📅 2026-08-05 - Indicators from Unit 42 Public Reports.
+* [swisscom/detections](https://github.com/swisscom/detections) ⚠️ Archived - Threat intelligence information and threat detection indicators (IOC, IOA) shared by Swisscom CSIRT. Archived; last updated 2020.
+* [thirdeyeintelligence/IOCs-in-CSV-format](https://github.com/thirdeyeintelligence/IOCs-in-CSV-format) ⭐ 12 | 🐛 0 | 📅 2017-06-10 - The repository contains IOCs in CSV format for APT, Cyber Crimes, Malware and Trojan and whatever I found as part of hunting and research.
 * [jasonmiacono/IOCs](https://github.com/jasonmiacono/IOCs) ⭐ 10 | 🐛 0 | 📅 2016-09-27 - Indicators of compromise for threat intelligence.
-* [nshc-threatrecon/IoC-List](https://github.com/nshc-threatrecon/IoC-List) ⭐ 9 | 🐛 0 | 📅 2021-10-29 - NSHC ThreatRecon IoC Repository
+* [nshc-threatrecon/IoC-List](https://github.com/nshc-threatrecon/IoC-List) ⭐ 9 | 🐛 0 | 📅 2021-10-29 - NSHC ThreatRecon IoC Repository.
+* [ThreatCluster Public IOC Feed](https://threatcluster.io/feeds) - Vendor-operated feed of indicators extracted from clustered public reporting, available as TXT, CSV and JSON.
 * [circl/osint-feed](https://www.circl.lu/doc/misp/feed-osint/) - Open Source Intelligence for MISP.
-* [da667/667s\_Shitlist](https://github.com/da667/667s_Shitlist) - Hi kids, do you like cyber violence? Wanna see me destroy evil in the blink of an eyelid?
-* [ThreatCluster Public IOC Feed](https://threatcluster.io/iocs) - Free feed of validated indicators from clustered reporting. txt, csv and json.
 
 ### Snort Signatures
 
@@ -39,31 +38,30 @@ An [awesome](https://github.com/sindresorhus/awesome) ⭐ 509,450 | 🐛 106 | �
 
 ### Yara Signatures
 
-* [Yara-Rules/rules](https://github.com/Yara-Rules/rules) ⭐ 4,899 | 🐛 28 | 🌐 YARA | 📅 2024-04-17 - Repository of yara rules.
+* [Yara-Rules/rules](https://github.com/Yara-Rules/rules) ⭐ 4,902 | 🐛 28 | 🌐 YARA | 📅 2024-04-17 - Repository of yara rules.
 * [reversinglabs/reversinglabs-yara-rules](https://github.com/reversinglabs/reversinglabs-yara-rules) ⭐ 944 | 🐛 2 | 🌐 YARA | 📅 2025-11-03 - ReversingLabs YARA Rules.
-* [advanced-threat-research/Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules) ⭐ 629 | 🐛 0 | 🌐 YARA | 📅 2025-03-18 - Repository of YARA rules made by McAfee ATR Team
+* [advanced-threat-research/Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules) ⭐ 629 | 🐛 0 | 🌐 YARA | 📅 2025-03-18 - Repository of YARA rules made by McAfee ATR Team.
 * [InQuest/yara-rules](https://github.com/InQuest/yara-rules) ⭐ 390 | 🐛 2 | 🌐 Python | 📅 2022-05-11 - A collection of Yara rules we wish to share with the world, most probably referenced from <http://blog.inquest.net>.
 * [citizenlab/malware-signatures](https://github.com/citizenlab/malware-signatures) ⭐ 144 | 🐛 1 | 🌐 VimL | 📅 2016-11-17 - Yara rules for malware families seen as part of targeted threats project.
 * [intezer/yara-rules](https://github.com/intezer/yara-rules) ⭐ 131 | 🐛 0 | 🌐 YARA | 📅 2025-02-02 - Yara rules from Intezer.
 * [x64dbg/yarasigs](https://github.com/x64dbg/yarasigs) ⭐ 88 | 🐛 0 | 🌐 YARA | 📅 2019-05-23 - Various Yara signatures (possibly to be included in a release later).
 * [kevthehermit/YaraRules](https://github.com/kevthehermit/YaraRules) ⭐ 53 | 🐛 0 | 📅 2016-02-07 - My Yara Rules Collection.
-* [0pc0deFR/YaraRules](https://github.com/0pc0deFR/YaraRules) ⚠️ Archived - Multiple rules for yara-project for detect compiler/packer/protector.
-* [OALabs/iocs](https://github.com/OALabs/iocs) - Machine-digestible malware indicators.
+* [0pc0deFR/YaraRules](https://github.com/0pc0deFR/YaraRules) ⚠️ Archived - Multiple rules for yara-project for detect compiler/packer/protector. Archived.
 
 ## Tools
 
 ### IOC Tools
 
-* [ninoseki/mitaka](https://github.com/ninoseki/mitaka#downloads) ⭐ 1,864 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-17 - Browser extension to lookup IoCs/observables on many sources.
+* [ninoseki/mitaka](https://github.com/ninoseki/mitaka#downloads) ⭐ 1,865 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-17 - Browser extension to lookup IoCs/observables on many sources.
 * [Neo23x0/yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,813 | 🐛 14 | 🌐 Python | 📅 2026-01-10 - yarGen is a generator for YARA rules.
-* [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor) ⭐ 931 | 🐛 15 | 🌐 Python | 📅 2026-05-26 - Flexible framework for consuming threat intelligence.
-* [InQuest/iocextract](https://github.com/inquest/python-iocextract) ⭐ 584 | 🐛 2 | 🌐 Python | 📅 2024-08-28 - Advanced Indicator of Compromise (IOC) extractor.
-* [mandiant/ioc\_writer](https://github.com/mandiant/ioc_writer) ⚠️ Archived - Provide a python library that allows for basic creation and editing of OpenIOC objects.
-* [yahoo/PyIOCe](https://github.com/yahoo/PyIOCe) ⚠️ Archived - Python IOC Editor.
+* [pedramamini/ThreatIngestor](https://github.com/pedramamini/ThreatIngestor) ⭐ 931 | 🐛 15 | 🌐 Python | 📅 2026-05-26 - Flexible framework for consuming threat intelligence.
+* [pedramamini/iocextract](https://github.com/pedramamini/iocextract) ⭐ 584 | 🐛 2 | 🌐 Python | 📅 2024-08-28 - Advanced Indicator of Compromise (IOC) extractor.
+* [mandiant/ioc\_writer](https://github.com/mandiant/ioc_writer) ⚠️ Archived - Provide a python library that allows for basic creation and editing of OpenIOC objects. Archived.
+* [YahooArchive/PyIOCe](https://github.com/YahooArchive/PyIOCe) ⚠️ Archived - Python IOC Editor. Archived.
 
 ### IOC Formats
 
-* [mandiant/OpenIOC\_1.1](https://github.com/mandiant/OpenIOC_1.1) ⭐ 137 | 🐛 3 | 📅 2021-06-11 - This repository contains a revised schema, iocterms file, and other supporting documents which are the basis for a draft of a revised version of OpenIOC that we are calling OpenIOC 1.1.
+* [fireeye/OpenIOC\_1.1](https://github.com/fireeye/OpenIOC_1.1) ⭐ 137 | 🐛 3 | 📅 2021-06-11 - This repository contains a revised schema, iocterms file, and other supporting documents which are the basis for a draft of a revised version of OpenIOC that we are calling OpenIOC 1.1.
 * [MISP Malware Information Sharing Platform & Threat Sharing format](https://github.com/MISP/misp-rfc) ⭐ 55 | 🐛 11 | 🌐 HTML | 📅 2026-08-06 - Specifications used in the MISP project including MISP core format.
 * [Mitre Cyber Observable eXpression (CybOX™)](https://cyboxproject.github.io/) - This site contains archived CybOX documentation.
 * [Mitre Malware Attribute Enumeration and Characterization (MAEC™)](https://maecproject.github.io/) - A schema for understanding malware.
@@ -77,4 +75,4 @@ Public Domain Dedication license.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

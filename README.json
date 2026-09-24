@@ -20,7 +20,7 @@
                 "id": 74331654,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T03:03:05Z",
+                "last_commit": "2026-09-24T20:58:36Z",
                 "open_issues": 8,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
@@ -47,7 +47,7 @@
                 "id": 74331654,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T03:03:05Z",
+                "last_commit": "2026-09-24T20:58:36Z",
                 "open_issues": 8,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
@@ -74,7 +74,7 @@
                 "id": 74331654,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T03:03:05Z",
+                "last_commit": "2026-09-24T20:58:36Z",
                 "open_issues": 8,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
@@ -97,7 +97,7 @@
             "id": 74331654,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T03:03:05Z",
+            "last_commit": "2026-09-24T20:58:36Z",
             "open_issues": 8,
             "owner": "sroberts",
             "repo": "awesome-iocs",
@@ -129,7 +129,7 @@
                 "id": 74331654,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T03:03:05Z",
+                "last_commit": "2026-09-24T20:58:36Z",
                 "open_issues": 8,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
@@ -156,7 +156,7 @@
                 "id": 74331654,
                 "language": "Shell",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T03:03:05Z",
+                "last_commit": "2026-09-24T20:58:36Z",
                 "open_issues": 8,
                 "owner": "sroberts",
                 "repo": "awesome-iocs",
@@ -179,7 +179,7 @@
             "id": 74331654,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T03:03:05Z",
+            "last_commit": "2026-09-24T20:58:36Z",
             "open_issues": 8,
             "owner": "sroberts",
             "repo": "awesome-iocs",
@@ -250,7 +250,7 @@
                 "open_issues": 0,
                 "owner": "eset",
                 "repo": "malware-ioc",
-                "stars": 1984,
+                "stars": 1983,
                 "topics": [
                   "ioc",
                   "malware",
@@ -276,33 +276,12 @@
                 "open_issues": 32,
                 "owner": "aptnotes",
                 "repo": "data",
-                "stars": 1816,
+                "stars": 1815,
                 "topics": [
                   "analysis",
                   "apt",
                   "malware"
                 ]
-              },
-              "first_seen": "2026-08-28T05:32:42.236Z"
-            },
-            {
-              "node_type": "item",
-              "title": "pan-unit42/iocs",
-              "description": "Indicators from Unit 42 Public Reports.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Indicators from Unit 42 Public Reports",
-                "homepage": null,
-                "id": 36872344,
-                "language": "PHP",
-                "license": "MIT",
-                "last_commit": "2025-08-17T14:03:32Z",
-                "open_issues": 5,
-                "owner": "pan-unit42",
-                "repo": "iocs",
-                "stars": 726,
-                "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
             },
@@ -342,8 +321,8 @@
             },
             {
               "node_type": "item",
-              "title": "fireeye/iocs",
-              "description": "FireEye Publicly Shared Indicators of Compromise (IOCs).",
+              "title": "mandiant/iocs",
+              "description": "FireEye Publicly Shared Indicators of Compromise (IOCs). Archived; last updated 2019.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -409,8 +388,29 @@
             },
             {
               "node_type": "item",
+              "title": "PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information",
+              "description": "Indicators from Unit 42 Public Reports.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the repository for indicators of compromise (IOCs) and other data for threat intelligence articles posted on the Palo Alto Networks Unit 42 website.",
+                "homepage": null,
+                "id": 710458835,
+                "language": "Python",
+                "license": "Unlicense",
+                "last_commit": "2026-08-05T20:51:19Z",
+                "open_issues": 0,
+                "owner": "PaloAltoNetworks",
+                "repo": "Unit42-Threat-Intelligence-Article-Information",
+                "stars": 118,
+                "topics": []
+              },
+              "first_seen": "2026-09-24T23:57:53.413Z"
+            },
+            {
+              "node_type": "item",
               "title": "swisscom/detections",
-              "description": "This repo contains threat intelligence information and threat detection indicators (IOC, IOA) shared by Swisscom CSIRT.",
+              "description": "Threat intelligence information and threat detection indicators (IOC, IOA) shared by Swisscom CSIRT. Archived; last updated 2020.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -435,7 +435,7 @@
             },
             {
               "node_type": "item",
-              "title": "makflwana/IOCs-in-CSV-format",
+              "title": "thirdeyeintelligence/IOCs-in-CSV-format",
               "description": "The repository contains IOCs in CSV format for APT, Cyber Crimes, Malware and Trojan and whatever I found as part of hunting and research.",
               "children": [],
               "repo_info": {
@@ -478,7 +478,7 @@
             {
               "node_type": "item",
               "title": "nshc-threatrecon/IoC-List",
-              "description": "NSHC ThreatRecon IoC Repository",
+              "description": "NSHC ThreatRecon IoC Repository.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -547,7 +547,7 @@
                 "open_issues": 28,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4899,
+                "stars": 4902,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -585,7 +585,7 @@
             {
               "node_type": "item",
               "title": "advanced-threat-research/Yara-Rules",
-              "description": "Repository of YARA rules made by McAfee ATR Team",
+              "description": "Repository of YARA rules made by McAfee ATR Team.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -721,7 +721,7 @@
             {
               "node_type": "item",
               "title": "0pc0deFR/YaraRules",
-              "description": "Multiple rules for yara-project for detect compiler/packer/protector.",
+              "description": "Multiple rules for yara-project for detect compiler/packer/protector. Archived.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -768,7 +768,7 @@
                 "open_issues": 5,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1864,
+                "stars": 1865,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -808,7 +808,7 @@
             },
             {
               "node_type": "item",
-              "title": "InQuest/ThreatIngestor",
+              "title": "pedramamini/ThreatIngestor",
               "description": "Flexible framework for consuming threat intelligence.",
               "children": [],
               "repo_info": {
@@ -848,7 +848,7 @@
             },
             {
               "node_type": "item",
-              "title": "InQuest/iocextract",
+              "title": "pedramamini/iocextract",
               "description": "Advanced Indicator of Compromise (IOC) extractor.",
               "children": [],
               "repo_info": {
@@ -885,7 +885,7 @@
             {
               "node_type": "item",
               "title": "mandiant/ioc_writer",
-              "description": "Provide a python library that allows for basic creation and editing of OpenIOC objects.",
+              "description": "Provide a python library that allows for basic creation and editing of OpenIOC objects. Archived.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -905,8 +905,8 @@
             },
             {
               "node_type": "item",
-              "title": "yahoo/PyIOCe",
-              "description": "Python IOC Editor.",
+              "title": "YahooArchive/PyIOCe",
+              "description": "Python IOC Editor. Archived.",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -933,7 +933,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "mandiant/OpenIOC_1.1",
+              "title": "fireeye/OpenIOC_1.1",
               "description": "This repository contains a revised schema, iocterms file, and other supporting documents which are the basis for a draft of a revised version of OpenIOC that we are calling OpenIOC 1.1.",
               "children": [],
               "repo_info": {
@@ -993,7 +993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T23:53:17.745Z",
+    "last_updated": "2026-09-24T23:57:53.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of sources of indicators of compromise.",
@@ -1001,7 +1001,7 @@
       "id": 74331654,
       "language": "Shell",
       "license": "NOASSERTION",
-      "last_commit": "2026-08-29T03:03:05Z",
+      "last_commit": "2026-09-24T20:58:36Z",
       "open_issues": 8,
       "owner": "sroberts",
       "repo": "awesome-iocs",
@@ -1014,7 +1014,7 @@
         "yara-rules"
       ]
     },
-    "original_repository_sha": "cc086053b76405bc8a8f722431f8a7ff58f481d9",
+    "original_repository_sha": "a2413a82d726b1880e6bfa276109098cc7612cca",
     "enhanced_repository": "enhansome/enhansome-iocs",
     "enhanced_repository_description": null,
     "title": "Awesome IOCs with stars"
