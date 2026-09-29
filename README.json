@@ -4,208 +4,11 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "IOCs",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Indicators",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A collection of sources of indicators of compromise.",
-                "homepage": null,
-                "id": 74331654,
-                "language": "Shell",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-27T01:22:13Z",
-                "open_issues": 8,
-                "owner": "sroberts",
-                "repo": "awesome-iocs",
-                "stars": 1005,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "ioc",
-                  "signature",
-                  "yara-rules"
-                ]
-              },
-              "first_seen": "2026-08-28T05:32:42.236Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Snort Signatures",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A collection of sources of indicators of compromise.",
-                "homepage": null,
-                "id": 74331654,
-                "language": "Shell",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-27T01:22:13Z",
-                "open_issues": 8,
-                "owner": "sroberts",
-                "repo": "awesome-iocs",
-                "stars": 1005,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "ioc",
-                  "signature",
-                  "yara-rules"
-                ]
-              },
-              "first_seen": "2026-08-28T05:32:42.236Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Yara Signatures",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A collection of sources of indicators of compromise.",
-                "homepage": null,
-                "id": 74331654,
-                "language": "Shell",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-27T01:22:13Z",
-                "open_issues": 8,
-                "owner": "sroberts",
-                "repo": "awesome-iocs",
-                "stars": 1005,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "ioc",
-                  "signature",
-                  "yara-rules"
-                ]
-              },
-              "first_seen": "2026-08-28T05:32:42.236Z"
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of sources of indicators of compromise.",
-            "homepage": null,
-            "id": 74331654,
-            "language": "Shell",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-27T01:22:13Z",
-            "open_issues": 8,
-            "owner": "sroberts",
-            "repo": "awesome-iocs",
-            "stars": 1005,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "ioc",
-              "signature",
-              "yara-rules"
-            ]
-          },
-          "first_seen": "2026-08-28T05:32:42.236Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Tools",
-          "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "IOC Tools",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A collection of sources of indicators of compromise.",
-                "homepage": null,
-                "id": 74331654,
-                "language": "Shell",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-27T01:22:13Z",
-                "open_issues": 8,
-                "owner": "sroberts",
-                "repo": "awesome-iocs",
-                "stars": 1005,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "ioc",
-                  "signature",
-                  "yara-rules"
-                ]
-              },
-              "first_seen": "2026-08-28T05:32:42.236Z"
-            },
-            {
-              "node_type": "item",
-              "title": "IOC Formats",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A collection of sources of indicators of compromise.",
-                "homepage": null,
-                "id": 74331654,
-                "language": "Shell",
-                "license": "NOASSERTION",
-                "last_commit": "2026-09-27T01:22:13Z",
-                "open_issues": 8,
-                "owner": "sroberts",
-                "repo": "awesome-iocs",
-                "stars": 1005,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "ioc",
-                  "signature",
-                  "yara-rules"
-                ]
-              },
-              "first_seen": "2026-08-28T05:32:42.236Z"
-            }
-          ],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of sources of indicators of compromise.",
-            "homepage": null,
-            "id": 74331654,
-            "language": "Shell",
-            "license": "NOASSERTION",
-            "last_commit": "2026-09-27T01:22:13Z",
-            "open_issues": 8,
-            "owner": "sroberts",
-            "repo": "awesome-iocs",
-            "stars": 1005,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "ioc",
-              "signature",
-              "yara-rules"
-            ]
-          },
-          "first_seen": "2026-08-28T05:32:42.236Z"
-        }
-      ],
-      "title": "Overview"
-    },
-    {
-      "description": null,
-      "items": [
-        {
           "children": [
             {
               "node_type": "item",
               "title": "Neo23x0/signature-base",
-              "description": "Signature base for my scanner tools.",
+              "description": "YARA rules and IOCs behind the LOKI and THOR Lite scanners, curated for a low false-positive rate and updated frequently.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -237,7 +40,7 @@
             {
               "node_type": "item",
               "title": "eset/malware-ioc",
-              "description": "Indicators of Compromises (IOC) of our various investigations.",
+              "description": "Indicators from ESET research publications, one directory per report and actively updated.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -263,7 +66,7 @@
             {
               "node_type": "item",
               "title": "aptnotes/data",
-              "description": "APTnotes data.",
+              "description": "Index of public reports on APT campaigns sorted by year, useful for tracing indicators back to the original vendor reporting.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -287,63 +90,56 @@
             },
             {
               "node_type": "item",
-              "title": "0x27/linux.mirai",
-              "description": "Leaked Linux.Mirai Source Code for Research/IoC Development Purposes.",
+              "title": "volexity/threat-intel",
+              "description": "IOCs from Volexity public threat research blog posts, organized by year and post.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Leaked Linux.Mirai Source Code for Research/IoC Development Purposes",
+                "description": "Signatures and IoCs from public Volexity blog posts.",
                 "homepage": null,
-                "id": 69770751,
-                "language": "C",
-                "license": null,
-                "last_commit": "2017-02-17T09:12:44Z",
-                "open_issues": 1,
-                "owner": "0x27",
-                "repo": "linux.mirai",
-                "stars": 582,
+                "id": 395054458,
+                "language": "YARA",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-28T12:35:13Z",
+                "open_issues": 0,
+                "owner": "volexity",
+                "repo": "threat-intel",
+                "stars": 373,
                 "topics": [
-                  "botnet",
-                  "ioc",
-                  "ioc-development",
-                  "iot",
-                  "leak",
-                  "linux",
-                  "malware",
-                  "malware-analysis",
-                  "malware-development",
-                  "malware-research",
-                  "mirai",
-                  "mirai-source"
+                  "snort-rules",
+                  "suricata-rules",
+                  "threat-intelligence",
+                  "yara",
+                  "yara-rules"
                 ]
               },
-              "first_seen": "2026-08-28T05:32:42.236Z"
+              "first_seen": "2026-09-29T01:10:38.366Z"
             },
             {
               "node_type": "item",
-              "title": "mandiant/iocs",
-              "description": "FireEye Publicly Shared Indicators of Compromise (IOCs). Archived; last updated 2019.",
+              "title": "Cisco-Talos/IOCs",
+              "description": "IOCs from Cisco Talos.",
               "children": [],
               "repo_info": {
-                "archived": true,
-                "description": "FireEye Publicly Shared Indicators of Compromise (IOCs)",
+                "archived": false,
+                "description": "Indicators of Compromise",
                 "homepage": null,
-                "id": 23447777,
-                "language": null,
-                "license": "Apache-2.0",
-                "last_commit": "2019-01-19T18:22:23Z",
-                "open_issues": 2,
-                "owner": "mandiant",
-                "repo": "iocs",
-                "stars": 470,
+                "id": 439078399,
+                "language": "Python",
+                "license": "CC0-1.0",
+                "last_commit": "2026-09-09T17:02:22Z",
+                "open_issues": 8,
+                "owner": "Cisco-Talos",
+                "repo": "IOCs",
+                "stars": 292,
                 "topics": []
               },
-              "first_seen": "2026-08-28T05:32:42.236Z"
+              "first_seen": "2026-09-29T01:10:38.366Z"
             },
             {
               "node_type": "item",
               "title": "citizenlab/malware-indicators",
-              "description": "Citizen Lab Malware Reports.",
+              "description": "Indicators from Citizen Lab investigations into targeted attacks on civil society, one directory per report.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -368,7 +164,7 @@
             {
               "node_type": "item",
               "title": "botherder/targetedthreats",
-              "description": "Collection of IOCs related to targeting of civil society.",
+              "description": "Network indicators from reports on the targeting of civil society, published as CSV, JSON and generated Snort rules.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -389,7 +185,7 @@
             {
               "node_type": "item",
               "title": "PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information",
-              "description": "Indicators from Unit 42 Public Reports.",
+              "description": "IOCs and supporting data for Palo Alto Networks Unit 42 threat research articles, so indicators can be traced back to their write-up.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -409,34 +205,29 @@
             },
             {
               "node_type": "item",
-              "title": "swisscom/detections",
-              "description": "Threat intelligence information and threat detection indicators (IOC, IOA) shared by Swisscom CSIRT. Archived; last updated 2020.",
+              "title": "hvs-consulting/ioc_signatures",
+              "description": "IOCs, CSV context and YARA rules from HvS-Consulting incident response work, organized by threat actor or campaign for threat hunting.",
               "children": [],
               "repo_info": {
-                "archived": true,
-                "description": "Threat intelligence and threat detection indicators (IOC, IOA)",
-                "homepage": null,
-                "id": 308299358,
+                "archived": false,
+                "description": "Repository with selected IOCs and YARA rules for threat hunting.",
+                "homepage": "https://www.hvs-consulting.de/",
+                "id": 321321095,
                 "language": "YARA",
-                "license": null,
-                "last_commit": "2020-11-27T15:14:53Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-04-08T08:59:46Z",
                 "open_issues": 0,
-                "owner": "swisscom",
-                "repo": "detections",
-                "stars": 52,
-                "topics": [
-                  "detection",
-                  "indicators",
-                  "indicators-of-compromise",
-                  "threat-detection"
-                ]
+                "owner": "hvs-consulting",
+                "repo": "ioc_signatures",
+                "stars": 35,
+                "topics": []
               },
-              "first_seen": "2026-08-28T05:32:42.236Z"
+              "first_seen": "2026-09-29T01:10:38.366Z"
             },
             {
               "node_type": "item",
               "title": "cystack/stealer-fingerprints",
-              "description": "Catalog of infostealer log fingerprints (banner strings, field signatures, YARA rules) for 30+ families including RedLine, Vidar, Lumma and StealC.",
+              "description": "Fingerprints of infostealer log formats (banner strings, field signatures, YARA rules) for 30+ families including RedLine, Vidar, Lumma and StealC, for identifying which stealer produced a leaked log.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -474,69 +265,6 @@
             },
             {
               "node_type": "item",
-              "title": "thirdeyeintelligence/IOCs-in-CSV-format",
-              "description": "The repository contains IOCs in CSV format for APT, Cyber Crimes, Malware and Trojan and whatever I found as part of hunting and research.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The repository contains IOCs in CSV format for APT, Cyber Crimes, Malware and Trojan and whatever I found as part of hunting and research",
-                "homepage": null,
-                "id": 63378958,
-                "language": null,
-                "license": null,
-                "last_commit": "2017-06-10T13:52:46Z",
-                "open_issues": 0,
-                "owner": "thirdeyeintelligence",
-                "repo": "IOCs-in-CSV-format",
-                "stars": 12,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:32:42.236Z"
-            },
-            {
-              "node_type": "item",
-              "title": "jasonmiacono/IOCs",
-              "description": "Indicators of compromise for threat intelligence.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Indicators of compromise for threat intelligence",
-                "homepage": null,
-                "id": 69390314,
-                "language": null,
-                "license": null,
-                "last_commit": "2016-09-27T22:08:29Z",
-                "open_issues": 0,
-                "owner": "jasonmiacono",
-                "repo": "IOCs",
-                "stars": 10,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:32:42.236Z"
-            },
-            {
-              "node_type": "item",
-              "title": "nshc-threatrecon/IoC-List",
-              "description": "NSHC ThreatRecon IoC Repository.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "NSHC ThreatRecon IoC Repository",
-                "homepage": null,
-                "id": 198187568,
-                "language": null,
-                "license": null,
-                "last_commit": "2021-10-29T16:32:48Z",
-                "open_issues": 0,
-                "owner": "nshc-threatrecon",
-                "repo": "IoC-List",
-                "stars": 9,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:32:42.236Z"
-            },
-            {
-              "node_type": "item",
               "title": "trilwu/apttrail",
               "description": "APT indicators that carry the actor they belong to, its MITRE ATT&CK group ID, when they first appeared and the report that published them.",
               "children": [],
@@ -568,6 +296,48 @@
                 ]
               },
               "first_seen": "2026-09-27T23:52:37.576Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DomainTools-Investigations/Malware-and-Scams",
+              "description": "IOCs from DomainTools for malware and scams.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "IOCs for malware and scams found in DTI research",
+                "homepage": null,
+                "id": 1246127096,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-09-10T20:44:57Z",
+                "open_issues": 0,
+                "owner": "DomainTools-Investigations",
+                "repo": "Malware-and-Scams",
+                "stars": 3,
+                "topics": []
+              },
+              "first_seen": "2026-09-29T01:10:38.366Z"
+            },
+            {
+              "node_type": "item",
+              "title": "DomainTools-Investigations/Nation-State-Threats",
+              "description": "IOCs from DomainTools for nation-state threats.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "IOCs for state-sponsored threat actors from DTI research",
+                "homepage": null,
+                "id": 1246126187,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-08-12T23:08:07Z",
+                "open_issues": 0,
+                "owner": "DomainTools-Investigations",
+                "repo": "Nation-State-Threats",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-29T01:10:38.366Z"
             }
           ],
           "description": null,
@@ -578,36 +348,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "kingtuna/Signatures",
-              "description": "A mixture of snort and suricata signatures.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A mixture of snort and suricata signatures",
-                "homepage": null,
-                "id": 40329907,
-                "language": null,
-                "license": null,
-                "last_commit": "2015-08-24T07:44:55Z",
-                "open_issues": 0,
-                "owner": "kingtuna",
-                "repo": "Signatures",
-                "stars": 5,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:32:42.236Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Snort Signatures"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "Yara-Rules/rules",
-              "description": "Repository of yara rules.",
+              "description": "Community-compiled YARA ruleset classified by threat type, a broad starting point for hunting.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -627,8 +369,29 @@
             },
             {
               "node_type": "item",
+              "title": "elastic/protections-artifacts",
+              "description": "YARA rules and EQL behavior rules used by Elastic Security for endpoint, with coverage mapped to MITRE ATT&CK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Elastic Security detection content for Endpoint",
+                "homepage": "https://www.elastic.co/security/endpoint-security",
+                "id": 495971687,
+                "language": "YARA",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-21T10:09:52Z",
+                "open_issues": 9,
+                "owner": "elastic",
+                "repo": "protections-artifacts",
+                "stars": 1495,
+                "topics": []
+              },
+              "first_seen": "2026-09-29T01:10:38.366Z"
+            },
+            {
+              "node_type": "item",
               "title": "reversinglabs/reversinglabs-yara-rules",
-              "description": "ReversingLabs YARA Rules.",
+              "description": "Detection-focused YARA rules from ReversingLabs threat analysts, written with the stated aim of zero false positives.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -658,7 +421,7 @@
             {
               "node_type": "item",
               "title": "advanced-threat-research/Yara-Rules",
-              "description": "Repository of YARA rules made by McAfee ATR Team.",
+              "description": "YARA rules that accompany Trellix Advanced Threat Research (formerly McAfee ATR) blog posts and investigations.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -684,7 +447,7 @@
             {
               "node_type": "item",
               "title": "InQuest/yara-rules",
-              "description": "A collection of Yara rules we wish to share with the world, most probably referenced from http://blog.inquest.net.",
+              "description": "YARA rules from InQuest research, intended for hunting rather than production detection; many are referenced from the InQuest blog.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -709,29 +472,8 @@
             },
             {
               "node_type": "item",
-              "title": "citizenlab/malware-signatures",
-              "description": "Yara rules for malware families seen as part of targeted threats project.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Yara rules for malware families seen as part of targeted threats project",
-                "homepage": null,
-                "id": 19461249,
-                "language": "VimL",
-                "license": null,
-                "last_commit": "2016-11-17T19:27:09Z",
-                "open_issues": 1,
-                "owner": "citizenlab",
-                "repo": "malware-signatures",
-                "stars": 145,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:32:42.236Z"
-            },
-            {
-              "node_type": "item",
               "title": "intezer/yara-rules",
-              "description": "Yara rules from Intezer.",
+              "description": "YARA rules from Intezer malware research.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -752,7 +494,7 @@
             {
               "node_type": "item",
               "title": "x64dbg/yarasigs",
-              "description": "Various Yara signatures (possibly to be included in a release later).",
+              "description": "YARA signatures for identifying packers, compilers and crypto constants, useful during reverse engineering.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -769,53 +511,11 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
-            },
-            {
-              "node_type": "item",
-              "title": "kevthehermit/YaraRules",
-              "description": "My Yara Rules Collection.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "My Yara Rules Collection",
-                "homepage": null,
-                "id": 32225059,
-                "language": null,
-                "license": null,
-                "last_commit": "2016-02-07T22:44:16Z",
-                "open_issues": 0,
-                "owner": "kevthehermit",
-                "repo": "YaraRules",
-                "stars": 53,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:32:42.236Z"
-            },
-            {
-              "node_type": "item",
-              "title": "0pc0deFR/YaraRules",
-              "description": "Multiple rules for yara-project for detect compiler/packer/protector. Archived.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Multiple rules for yara-project for detect compiler/packer/protector",
-                "homepage": null,
-                "id": 8857353,
-                "language": "YARA",
-                "license": null,
-                "last_commit": "2019-12-24T14:18:55Z",
-                "open_issues": 0,
-                "owner": "0pc0deFR",
-                "repo": "YaraRules",
-                "stars": 33,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:32:42.236Z"
             }
           ],
           "description": null,
           "node_type": "group",
-          "title": "Yara Signatures"
+          "title": "YARA Signatures"
         }
       ],
       "title": "IOCs"
@@ -828,7 +528,7 @@
             {
               "node_type": "item",
               "title": "ninoseki/mitaka",
-              "description": "Browser extension to lookup IoCs/observables on many sources.",
+              "description": "Browser extension that looks up a selected IOC across many OSINT and scanning services from the context menu.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -841,7 +541,7 @@
                 "open_issues": 5,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1869,
+                "stars": 1870,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -854,7 +554,7 @@
             {
               "node_type": "item",
               "title": "Neo23x0/yarGen",
-              "description": "yarGen is a generator for YARA rules.",
+              "description": "Generates YARA rules from malware samples while filtering out strings common in goodware.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -882,7 +582,7 @@
             {
               "node_type": "item",
               "title": "pedramamini/ThreatIngestor",
-              "description": "Flexible framework for consuming threat intelligence.",
+              "description": "Extendable framework that extracts and aggregates IOCs from threat feeds and passes them to other tools.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -895,7 +595,7 @@
                 "open_issues": 15,
                 "owner": "pedramamini",
                 "repo": "ThreatIngestor",
-                "stars": 931,
+                "stars": 930,
                 "topics": [
                   "dfir",
                   "fraud-detection",
@@ -922,7 +622,7 @@
             {
               "node_type": "item",
               "title": "pedramamini/iocextract",
-              "description": "Advanced Indicator of Compromise (IOC) extractor.",
+              "description": "Extracts IOCs from text, including defanged URLs, IP addresses and hashes.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -954,48 +654,6 @@
                 ]
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
-            },
-            {
-              "node_type": "item",
-              "title": "mandiant/ioc_writer",
-              "description": "Provide a python library that allows for basic creation and editing of OpenIOC objects. Archived.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": null,
-                "homepage": null,
-                "id": 11642168,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2023-05-03T10:16:22Z",
-                "open_issues": 2,
-                "owner": "mandiant",
-                "repo": "ioc_writer",
-                "stars": 207,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:32:42.236Z"
-            },
-            {
-              "node_type": "item",
-              "title": "YahooArchive/PyIOCe",
-              "description": "Python IOC Editor. Archived.",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Python IOC Editor",
-                "homepage": null,
-                "id": 22967752,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2015-03-10T03:58:58Z",
-                "open_issues": 0,
-                "owner": "YahooArchive",
-                "repo": "PyIOCe",
-                "stars": 66,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:32:42.236Z"
             }
           ],
           "description": null,
@@ -1006,29 +664,8 @@
           "children": [
             {
               "node_type": "item",
-              "title": "fireeye/OpenIOC_1.1",
-              "description": "This repository contains a revised schema, iocterms file, and other supporting documents which are the basis for a draft of a revised version of OpenIOC that we are calling OpenIOC 1.1.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 12087980,
-                "language": null,
-                "license": "Apache-2.0",
-                "last_commit": "2021-06-11T14:43:22Z",
-                "open_issues": 3,
-                "owner": "fireeye",
-                "repo": "OpenIOC_1.1",
-                "stars": 137,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T05:32:42.236Z"
-            },
-            {
-              "node_type": "item",
               "title": "MISP Malware Information Sharing Platform & Threat Sharing format",
-              "description": "Specifications used in the MISP project including MISP core format.",
+              "description": "Specifications for the MISP core format and related formats, used to exchange indicators between MISP and other platforms.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1063,31 +700,210 @@
         }
       ],
       "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Malware Analysis",
+          "description": "Tools and resources for analyzing malware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Defund the Police.",
+            "homepage": "https://gazafunds.com/",
+            "id": 35313712,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2024-06-07T05:09:47Z",
+            "open_issues": 25,
+            "owner": "rshipp",
+            "repo": "awesome-malware-analysis",
+            "stars": 14227,
+            "topics": [
+              "analysis-framework",
+              "automated-analysis",
+              "awesome",
+              "awesome-list",
+              "chinese",
+              "chinese-translation",
+              "domain-analysis",
+              "drop-ice",
+              "dynamic-analysis",
+              "list",
+              "malware-analysis",
+              "malware-collection",
+              "malware-research",
+              "malware-samples",
+              "network-traffic",
+              "static-analysis",
+              "threat-intelligence",
+              "threat-sharing",
+              "threatintel"
+            ]
+          },
+          "first_seen": "2026-09-29T01:10:38.366Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Threat Intelligence",
+          "description": "Threat intelligence sources, formats and platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of Awesome Threat Intelligence resources",
+            "homepage": null,
+            "id": 48368290,
+            "language": null,
+            "license": "Apache-2.0",
+            "last_commit": "2026-05-31T10:54:05Z",
+            "open_issues": 141,
+            "owner": "hslatman",
+            "repo": "awesome-threat-intelligence",
+            "stars": 10682,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "hacktoberfest",
+              "security"
+            ]
+          },
+          "first_seen": "2026-09-29T01:10:38.366Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Incident Response",
+          "description": "Tools and resources for security incident response.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of tools for incident response",
+            "homepage": null,
+            "id": 45943554,
+            "language": null,
+            "license": "Apache-2.0",
+            "last_commit": "2026-07-15T10:58:26Z",
+            "open_issues": 89,
+            "owner": "meirwah",
+            "repo": "awesome-incident-response",
+            "stars": 9418,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cybersecurity",
+              "dfir",
+              "incident-response",
+              "incident-response-tooling",
+              "list",
+              "security"
+            ]
+          },
+          "first_seen": "2026-09-29T01:10:38.366Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome YARA",
+          "description": "YARA rules, tools and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A curated list of awesome YARA rules, tools, and people.",
+            "homepage": null,
+            "id": 101214787,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2026-06-15T19:57:31Z",
+            "open_issues": 1,
+            "owner": "pedramamini",
+            "repo": "awesome-yara",
+            "stars": 4278,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-yara",
+              "ioc",
+              "malware-analysis",
+              "malware-detection",
+              "malware-research",
+              "malware-rules",
+              "threat-hunting",
+              "yara",
+              "yara-manager",
+              "yara-rules",
+              "yara-scanner",
+              "yara-signatures"
+            ]
+          },
+          "first_seen": "2026-09-29T01:10:38.366Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Detection Engineering",
+          "description": "Designing, building and operating detection controls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.",
+            "homepage": null,
+            "id": 298706027,
+            "language": null,
+            "license": "CC0-1.0",
+            "last_commit": "2026-08-03T16:57:29Z",
+            "open_issues": 14,
+            "owner": "infosecB",
+            "repo": "awesome-detection-engineering",
+            "stars": 1348,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cybersecurity",
+              "detection-engineering",
+              "mitre",
+              "splunk",
+              "threat-detection"
+            ]
+          },
+          "first_seen": "2026-09-29T01:10:38.366Z"
+        }
+      ],
+      "title": "Related Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:52:37.576Z",
+    "last_updated": "2026-09-29T01:10:38.366Z",
     "original_repository_info": {
       "archived": false,
-      "description": "A collection of sources of indicators of compromise.",
+      "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
       "homepage": null,
       "id": 74331654,
       "language": "Shell",
-      "license": "NOASSERTION",
-      "last_commit": "2026-09-27T01:22:13Z",
-      "open_issues": 8,
+      "license": "CC0-1.0",
+      "last_commit": "2026-09-29T00:47:52Z",
+      "open_issues": 0,
       "owner": "sroberts",
       "repo": "awesome-iocs",
-      "stars": 1005,
+      "stars": 1007,
       "topics": [
         "awesome",
         "awesome-list",
+        "dfir",
+        "indicator-of-compromise",
         "ioc",
+        "misp",
         "signature",
-        "yara-rules"
+        "snort",
+        "snort-rules",
+        "suricata",
+        "suricata-rules",
+        "threat-hunting",
+        "threat-intelligence",
+        "yara",
+        "yara-rules",
+        "yara-signatures"
       ]
     },
-    "original_repository_sha": "7aebe73adf6dbf9a196be070c226c066b6cd6a66",
+    "original_repository_sha": "a79d78797ea04ad171e65532ed4479b523c8ab3c",
     "enhanced_repository": "enhansome/enhansome-iocs",
     "enhanced_repository_description": null,
     "title": "Awesome IOCs with stars"
