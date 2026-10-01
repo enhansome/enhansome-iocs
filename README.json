@@ -21,7 +21,7 @@
                 "open_issues": 17,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3038,
+                "stars": 3041,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -127,7 +127,7 @@
                 "id": 439078399,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-09T17:02:22Z",
+                "last_commit": "2026-09-30T09:38:04Z",
                 "open_issues": 8,
                 "owner": "Cisco-Talos",
                 "repo": "IOCs",
@@ -359,10 +359,10 @@
                 "language": "YARA",
                 "license": "GPL-2.0",
                 "last_commit": "2024-04-17T00:12:25Z",
-                "open_issues": 28,
+                "open_issues": 29,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4902,
+                "stars": 4905,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -379,7 +379,7 @@
                 "id": 495971687,
                 "language": "YARA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T10:11:36Z",
+                "last_commit": "2026-09-30T10:13:17Z",
                 "open_issues": 9,
                 "owner": "elastic",
                 "repo": "protections-artifacts",
@@ -404,7 +404,7 @@
                 "open_issues": 2,
                 "owner": "reversinglabs",
                 "repo": "reversinglabs-yara-rules",
-                "stars": 945,
+                "stars": 946,
                 "topics": [
                   "indicators-of-compromise",
                   "malware-detection",
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14230,
+            "stars": 14233,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -761,7 +761,7 @@
             "open_issues": 142,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10686,
+            "stars": 10690,
             "topics": [
               "awesome",
               "awesome-list",
@@ -784,10 +784,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-07-15T10:58:26Z",
-            "open_issues": 89,
+            "open_issues": 87,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9421,
+            "stars": 9423,
             "topics": [
               "awesome",
               "awesome-list",
@@ -817,7 +817,7 @@
             "open_issues": 1,
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4279,
+            "stars": 4281,
             "topics": [
               "awesome",
               "awesome-list",
@@ -850,7 +850,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-03T16:57:29Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
             "stars": 1349,
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T00:40:51.210Z",
+    "last_updated": "2026-10-01T00:44:09.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
@@ -879,8 +879,8 @@
       "id": 74331654,
       "language": "Shell",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-29T18:13:32Z",
-      "open_issues": 7,
+      "last_commit": "2026-09-30T20:18:21Z",
+      "open_issues": 9,
       "owner": "sroberts",
       "repo": "awesome-iocs",
       "stars": 1009,
@@ -903,7 +903,7 @@
         "yara-signatures"
       ]
     },
-    "original_repository_sha": "d9a6b90a3fc69023e0350da1b9406c30803beedd",
+    "original_repository_sha": "52fe89285100b1332f46ba836b3b157763414f66",
     "enhanced_repository": "enhansome/enhansome-iocs",
     "enhanced_repository_description": null,
     "title": "Awesome IOCs with stars"

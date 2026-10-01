@@ -18,11 +18,11 @@ Forensic artifacts, such as file hashes, domains, IP addresses and detection sig
 
 ### Indicators
 
-* [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) ⭐ 3,038 | 🐛 17 | 🌐 YARA | 📅 2026-09-08 - YARA rules and IOCs behind the LOKI and THOR Lite scanners, curated for a low false-positive rate and updated frequently.
+* [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) ⭐ 3,041 | 🐛 17 | 🌐 YARA | 📅 2026-09-08 - YARA rules and IOCs behind the LOKI and THOR Lite scanners, curated for a low false-positive rate and updated frequently.
 * [eset/malware-ioc](https://github.com/eset/malware-ioc) ⭐ 1,984 | 🐛 0 | 🌐 YARA | 📅 2026-09-17 - Indicators from ESET research publications, one directory per report and actively updated.
 * [aptnotes/data](https://github.com/aptnotes/data) ⭐ 1,815 | 🐛 32 | 📅 2024-12-16 - Index of public reports on APT campaigns sorted by year, useful for tracing indicators back to the original vendor reporting.
 * [volexity/threat-intel](https://github.com/volexity/threat-intel) ⭐ 373 | 🐛 0 | 🌐 YARA | 📅 2026-09-28 - IOCs from Volexity public threat research blog posts, organized by year and post.
-* [Cisco-Talos/IOCs](https://github.com/Cisco-Talos/IOCs) ⭐ 292 | 🐛 8 | 🌐 Python | 📅 2026-09-09 - IOCs from Cisco Talos.
+* [Cisco-Talos/IOCs](https://github.com/Cisco-Talos/IOCs) ⭐ 292 | 🐛 8 | 🌐 Python | 📅 2026-09-30 - IOCs from Cisco Talos.
 * [citizenlab/malware-indicators](https://github.com/citizenlab/malware-indicators) ⭐ 285 | 🐛 2 | 🌐 YARA | 📅 2020-10-04 - Indicators from Citizen Lab investigations into targeted attacks on civil society, one directory per report.
 * [botherder/targetedthreats](https://github.com/botherder/targetedthreats) ⭐ 190 | 🐛 4 | 🌐 Python | 📅 2021-11-11 - Network indicators from reports on the targeting of civil society, published as CSV, JSON and generated Snort rules.
 * [PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information](https://github.com/PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information) ⭐ 119 | 🐛 0 | 🌐 Python | 📅 2026-08-05 - IOCs and supporting data for Palo Alto Networks Unit 42 threat research articles, so indicators can be traced back to their write-up.
@@ -44,9 +44,9 @@ Forensic artifacts, such as file hashes, domains, IP addresses and detection sig
 
 ### YARA Signatures
 
-* [Yara-Rules/rules](https://github.com/Yara-Rules/rules) ⭐ 4,902 | 🐛 28 | 🌐 YARA | 📅 2024-04-17 - Community-compiled YARA ruleset classified by threat type, a broad starting point for hunting.
-* [elastic/protections-artifacts](https://github.com/elastic/protections-artifacts) ⭐ 1,495 | 🐛 9 | 🌐 YARA | 📅 2026-09-29 - YARA rules and EQL behavior rules used by Elastic Security for endpoint, with coverage mapped to MITRE ATT\&CK.
-* [reversinglabs/reversinglabs-yara-rules](https://github.com/reversinglabs/reversinglabs-yara-rules) ⭐ 945 | 🐛 2 | 🌐 YARA | 📅 2025-11-03 - Detection-focused YARA rules from ReversingLabs threat analysts, written with the stated aim of zero false positives.
+* [Yara-Rules/rules](https://github.com/Yara-Rules/rules) ⭐ 4,905 | 🐛 29 | 🌐 YARA | 📅 2024-04-17 - Community-compiled YARA ruleset classified by threat type, a broad starting point for hunting.
+* [elastic/protections-artifacts](https://github.com/elastic/protections-artifacts) ⭐ 1,495 | 🐛 9 | 🌐 YARA | 📅 2026-09-30 - YARA rules and EQL behavior rules used by Elastic Security for endpoint, with coverage mapped to MITRE ATT\&CK.
+* [reversinglabs/reversinglabs-yara-rules](https://github.com/reversinglabs/reversinglabs-yara-rules) ⭐ 946 | 🐛 2 | 🌐 YARA | 📅 2025-11-03 - Detection-focused YARA rules from ReversingLabs threat analysts, written with the stated aim of zero false positives.
 * [advanced-threat-research/Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules) ⭐ 629 | 🐛 0 | 🌐 YARA | 📅 2025-03-18 - YARA rules that accompany Trellix Advanced Threat Research (formerly McAfee ATR) blog posts and investigations.
 * [InQuest/yara-rules](https://github.com/InQuest/yara-rules) ⭐ 390 | 🐛 2 | 🌐 Python | 📅 2022-05-11 - YARA rules from InQuest research, intended for hunting rather than production detection; many are referenced from the [InQuest blog](http://blog.inquest.net).
 * [intezer/yara-rules](https://github.com/intezer/yara-rules) ⭐ 131 | 🐛 0 | 🌐 YARA | 📅 2025-02-02 - YARA rules from Intezer malware research.
@@ -70,11 +70,11 @@ Forensic artifacts, such as file hashes, domains, IP addresses and detection sig
 
 ## Related Lists
 
-* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) ⭐ 14,230 | 🐛 25 | 📅 2024-06-07 - Tools and resources for analyzing malware.
-* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence#readme) ⭐ 10,686 | 🐛 142 | 📅 2026-05-31 - Threat intelligence sources, formats and platforms.
-* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response#readme) ⭐ 9,421 | 🐛 89 | 📅 2026-07-15 - Tools and resources for security incident response.
-* [Awesome YARA](https://github.com/InQuest/awesome-yara#readme) ⭐ 4,279 | 🐛 1 | 📅 2026-06-15 - YARA rules, tools and resources.
-* [Awesome Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) ⭐ 1,349 | 🐛 14 | 📅 2026-08-03 - Designing, building and operating detection controls.
+* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) ⭐ 14,233 | 🐛 25 | 📅 2024-06-07 - Tools and resources for analyzing malware.
+* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence#readme) ⭐ 10,690 | 🐛 142 | 📅 2026-05-31 - Threat intelligence sources, formats and platforms.
+* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response#readme) ⭐ 9,423 | 🐛 87 | 📅 2026-07-15 - Tools and resources for security incident response.
+* [Awesome YARA](https://github.com/pedramamini/awesome-yara#readme) ⭐ 4,281 | 🐛 1 | 📅 2026-06-15 - YARA rules, tools and resources.
+* [Awesome Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) ⭐ 1,349 | 🐛 15 | 📅 2026-08-03 - Designing, building and operating detection controls.
 
 ## Contributing
 
@@ -86,4 +86,4 @@ Archived, unmaintained and superseded sources are listed in [archived.md](archiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
