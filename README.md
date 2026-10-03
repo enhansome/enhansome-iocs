@@ -70,9 +70,9 @@ Forensic artifacts, such as file hashes, domains, IP addresses and detection sig
 
 ## Related Lists
 
-* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) ⭐ 14,235 | 🐛 25 | 📅 2024-06-07 - Tools and resources for analyzing malware.
-* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence#readme) ⭐ 10,693 | 🐛 143 | 📅 2026-05-31 - Threat intelligence sources, formats and platforms.
-* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response#readme) ⭐ 9,426 | 🐛 88 | 📅 2026-07-15 - Tools and resources for security incident response.
+* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) ⭐ 14,237 | 🐛 25 | 📅 2024-06-07 - Tools and resources for analyzing malware.
+* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence#readme) ⭐ 10,694 | 🐛 143 | 📅 2026-05-31 - Threat intelligence sources, formats and platforms.
+* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response#readme) ⭐ 9,427 | 🐛 88 | 📅 2026-07-15 - Tools and resources for security incident response.
 * [Awesome YARA](https://github.com/pedramamini/awesome-yara#readme) ⭐ 4,281 | 🐛 1 | 📅 2026-06-15 - YARA rules, tools and resources.
 * [Awesome Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) ⭐ 1,350 | 🐛 14 | 📅 2026-10-01 - Designing, building and operating detection controls.
 
