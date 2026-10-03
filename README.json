@@ -18,7 +18,7 @@
                 "language": "YARA",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-08T07:50:51Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
                 "stars": 3040,
@@ -79,7 +79,7 @@
                 "open_issues": 32,
                 "owner": "aptnotes",
                 "repo": "data",
-                "stars": 1815,
+                "stars": 1814,
                 "topics": [
                   "analysis",
                   "apt",
@@ -236,7 +236,7 @@
                 "id": 1231682626,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T23:24:22Z",
+                "last_commit": "2026-10-02T22:58:49Z",
                 "open_issues": 0,
                 "owner": "cystack",
                 "repo": "stealer-fingerprints",
@@ -379,8 +379,8 @@
                 "id": 495971687,
                 "language": "YARA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T10:12:54Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-02T14:30:35Z",
+                "open_issues": 10,
                 "owner": "elastic",
                 "repo": "protections-artifacts",
                 "stars": 1495,
@@ -460,7 +460,7 @@
                 "open_issues": 2,
                 "owner": "InQuest",
                 "repo": "yara-rules",
-                "stars": 390,
+                "stars": 389,
                 "topics": [
                   "threat-hunting",
                   "yara",
@@ -567,7 +567,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "yarGen",
-                "stars": 1814,
+                "stars": 1815,
                 "topics": [
                   "malware",
                   "malware-analysis",
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14236,
+            "stars": 14235,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -758,7 +758,7 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-05-31T10:54:05Z",
-            "open_issues": 142,
+            "open_issues": 143,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
             "stars": 10693,
@@ -787,7 +787,7 @@
             "open_issues": 88,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9425,
+            "stars": 9426,
             "topics": [
               "awesome",
               "awesome-list",
@@ -817,7 +817,7 @@
             "open_issues": 1,
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4280,
+            "stars": 4281,
             "topics": [
               "awesome",
               "awesome-list",
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:01:41.525Z",
+    "last_updated": "2026-10-03T00:39:04.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
