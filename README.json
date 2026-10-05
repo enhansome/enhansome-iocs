@@ -236,7 +236,7 @@
                 "id": 1231682626,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T18:42:21Z",
+                "last_commit": "2026-10-04T18:57:22Z",
                 "open_issues": 0,
                 "owner": "cystack",
                 "repo": "stealer-fingerprints",
@@ -404,7 +404,7 @@
                 "open_issues": 3,
                 "owner": "reversinglabs",
                 "repo": "reversinglabs-yara-rules",
-                "stars": 945,
+                "stars": 946,
                 "topics": [
                   "indicators-of-compromise",
                   "malware-detection",
@@ -434,7 +434,7 @@
                 "open_issues": 0,
                 "owner": "advanced-threat-research",
                 "repo": "Yara-Rules",
-                "stars": 630,
+                "stars": 631,
                 "topics": [
                   "iocs",
                   "threat-hunting",
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14241,
+            "stars": 14246,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -761,7 +761,7 @@
             "open_issues": 143,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10696,
+            "stars": 10699,
             "topics": [
               "awesome",
               "awesome-list",
@@ -787,7 +787,7 @@
             "open_issues": 88,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9431,
+            "stars": 9433,
             "topics": [
               "awesome",
               "awesome-list",
@@ -817,7 +817,7 @@
             "open_issues": 1,
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4282,
+            "stars": 4283,
             "topics": [
               "awesome",
               "awesome-list",
@@ -853,7 +853,7 @@
             "open_issues": 14,
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1350,
+            "stars": 1352,
             "topics": [
               "awesome",
               "awesome-list",
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T23:58:49.671Z",
+    "last_updated": "2026-10-05T00:05:22.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
