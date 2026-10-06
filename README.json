@@ -198,7 +198,7 @@
                 "open_issues": 0,
                 "owner": "PaloAltoNetworks",
                 "repo": "Unit42-Threat-Intelligence-Article-Information",
-                "stars": 119,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-09-24T23:57:53.413Z"
@@ -379,7 +379,7 @@
                 "id": 495971687,
                 "language": "YARA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T10:16:07Z",
+                "last_commit": "2026-10-06T10:13:08Z",
                 "open_issues": 10,
                 "owner": "elastic",
                 "repo": "protections-artifacts",
@@ -541,7 +541,7 @@
                 "open_issues": 5,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1873,
+                "stars": 1874,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -567,7 +567,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "yarGen",
-                "stars": 1815,
+                "stars": 1816,
                 "topics": [
                   "malware",
                   "malware-analysis",
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14253,
+            "stars": 14251,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -784,10 +784,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-07-15T10:58:26Z",
-            "open_issues": 88,
+            "open_issues": 87,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9434,
+            "stars": 9433,
             "topics": [
               "awesome",
               "awesome-list",
@@ -817,7 +817,7 @@
             "open_issues": 1,
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4284,
+            "stars": 4283,
             "topics": [
               "awesome",
               "awesome-list",
@@ -853,7 +853,7 @@
             "open_issues": 14,
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1352,
+            "stars": 1353,
             "topics": [
               "awesome",
               "awesome-list",
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:50:16.039Z",
+    "last_updated": "2026-10-06T10:40:35.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
