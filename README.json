@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3043,
+                "stars": 3045,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -127,8 +127,8 @@
                 "id": 439078399,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-30T09:38:04Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-07T20:31:51Z",
+                "open_issues": 9,
                 "owner": "Cisco-Talos",
                 "repo": "IOCs",
                 "stars": 293,
@@ -198,7 +198,7 @@
                 "open_issues": 0,
                 "owner": "PaloAltoNetworks",
                 "repo": "Unit42-Threat-Intelligence-Article-Information",
-                "stars": 118,
+                "stars": 119,
                 "topics": []
               },
               "first_seen": "2026-09-24T23:57:53.413Z"
@@ -236,7 +236,7 @@
                 "id": 1231682626,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T20:58:32Z",
+                "last_commit": "2026-10-07T23:40:32Z",
                 "open_issues": 0,
                 "owner": "cystack",
                 "repo": "stealer-fingerprints",
@@ -379,7 +379,7 @@
                 "id": 495971687,
                 "language": "YARA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T10:13:08Z",
+                "last_commit": "2026-10-07T14:09:47Z",
                 "open_issues": 10,
                 "owner": "elastic",
                 "repo": "protections-artifacts",
@@ -541,7 +541,7 @@
                 "open_issues": 5,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1875,
+                "stars": 1876,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14253,
+            "stars": 14258,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -761,7 +761,7 @@
             "open_issues": 142,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10703,
+            "stars": 10711,
             "topics": [
               "awesome",
               "awesome-list",
@@ -784,10 +784,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-07-15T10:58:26Z",
-            "open_issues": 87,
+            "open_issues": 88,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9433,
+            "stars": 9439,
             "topics": [
               "awesome",
               "awesome-list",
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T00:56:19.751Z",
+    "last_updated": "2026-10-08T01:12:15.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
@@ -883,7 +883,7 @@
       "open_issues": 7,
       "owner": "sroberts",
       "repo": "awesome-iocs",
-      "stars": 1010,
+      "stars": 1011,
       "topics": [
         "awesome",
         "awesome-list",
