@@ -21,7 +21,7 @@
                 "open_issues": 18,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3045,
+                "stars": 3046,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -49,11 +49,11 @@
                 "id": 17713436,
                 "language": "YARA",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-17T16:27:41Z",
+                "last_commit": "2026-10-10T07:45:00Z",
                 "open_issues": 0,
                 "owner": "eset",
                 "repo": "malware-ioc",
-                "stars": 1985,
+                "stars": 1987,
                 "topics": [
                   "ioc",
                   "malware",
@@ -236,11 +236,11 @@
                 "id": 1231682626,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T16:30:30Z",
+                "last_commit": "2026-10-10T19:20:50Z",
                 "open_issues": 0,
                 "owner": "cystack",
                 "repo": "stealer-fingerprints",
-                "stars": 21,
+                "stars": 22,
                 "topics": [
                   "cti",
                   "cybersecurity",
@@ -362,7 +362,7 @@
                 "open_issues": 29,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4913,
+                "stars": 4914,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -383,7 +383,7 @@
                 "open_issues": 10,
                 "owner": "elastic",
                 "repo": "protections-artifacts",
-                "stars": 1497,
+                "stars": 1498,
                 "topics": []
               },
               "first_seen": "2026-09-29T01:10:38.366Z"
@@ -541,7 +541,7 @@
                 "open_issues": 5,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1877,
+                "stars": 1879,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14266,
+            "stars": 14268,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -761,7 +761,7 @@
             "open_issues": 141,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10720,
+            "stars": 10724,
             "topics": [
               "awesome",
               "awesome-list",
@@ -787,7 +787,7 @@
             "open_issues": 89,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9443,
+            "stars": 9442,
             "topics": [
               "awesome",
               "awesome-list",
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:07:59.268Z",
+    "last_updated": "2026-10-11T00:21:16.965Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
