@@ -104,7 +104,7 @@
                 "open_issues": 0,
                 "owner": "volexity",
                 "repo": "threat-intel",
-                "stars": 373,
+                "stars": 371,
                 "topics": [
                   "snort-rules",
                   "suricata-rules",
@@ -131,7 +131,7 @@
                 "open_issues": 9,
                 "owner": "Cisco-Talos",
                 "repo": "IOCs",
-                "stars": 293,
+                "stars": 294,
                 "topics": []
               },
               "first_seen": "2026-09-29T01:10:38.366Z"
@@ -198,7 +198,7 @@
                 "open_issues": 0,
                 "owner": "PaloAltoNetworks",
                 "repo": "Unit42-Threat-Intelligence-Article-Information",
-                "stars": 119,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-09-24T23:57:53.413Z"
@@ -383,7 +383,7 @@
                 "open_issues": 10,
                 "owner": "elastic",
                 "repo": "protections-artifacts",
-                "stars": 1498,
+                "stars": 1497,
                 "topics": []
               },
               "first_seen": "2026-09-29T01:10:38.366Z"
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14268,
+            "stars": 14269,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -758,7 +758,7 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-05-31T10:54:05Z",
-            "open_issues": 141,
+            "open_issues": 142,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
             "stars": 10724,
@@ -849,11 +849,11 @@
             "id": 298706027,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-01T23:08:19Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-11T12:35:32Z",
+            "open_issues": 5,
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1356,
+            "stars": 1357,
             "topics": [
               "awesome",
               "awesome-list",
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T00:21:16.965Z",
+    "last_updated": "2026-10-12T00:41:28.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
@@ -883,7 +883,7 @@
       "open_issues": 7,
       "owner": "sroberts",
       "repo": "awesome-iocs",
-      "stars": 1011,
+      "stars": 1014,
       "topics": [
         "awesome",
         "awesome-list",
