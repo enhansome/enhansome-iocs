@@ -152,7 +152,7 @@
                 "open_issues": 2,
                 "owner": "citizenlab",
                 "repo": "malware-indicators",
-                "stars": 285,
+                "stars": 286,
                 "topics": [
                   "ioc",
                   "malware-research",
@@ -240,7 +240,7 @@
                 "open_issues": 0,
                 "owner": "cystack",
                 "repo": "stealer-fingerprints",
-                "stars": 22,
+                "stars": 23,
                 "topics": [
                   "cti",
                   "cybersecurity",
@@ -362,7 +362,7 @@
                 "open_issues": 29,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4919,
+                "stars": 4921,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -383,7 +383,7 @@
                 "open_issues": 10,
                 "owner": "elastic",
                 "repo": "protections-artifacts",
-                "stars": 1499,
+                "stars": 1500,
                 "topics": []
               },
               "first_seen": "2026-09-29T01:10:38.366Z"
@@ -401,7 +401,7 @@
                 "language": "YARA",
                 "license": "MIT",
                 "last_commit": "2025-11-03T15:00:04Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "reversinglabs",
                 "repo": "reversinglabs-yara-rules",
                 "stars": 948,
@@ -424,7 +424,7 @@
               "description": "YARA rules that accompany Trellix Advanced Threat Research (formerly McAfee ATR) blog posts and investigations.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Repository of YARA rules made by Trellix ATR Team",
                 "homepage": null,
                 "id": 151364524,
@@ -541,7 +541,7 @@
                 "open_issues": 9,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1882,
+                "stars": 1883,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14283,
+            "stars": 14286,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -761,7 +761,7 @@
             "open_issues": 148,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10732,
+            "stars": 10734,
             "topics": [
               "awesome",
               "awesome-list",
@@ -787,7 +787,7 @@
             "open_issues": 90,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9452,
+            "stars": 9454,
             "topics": [
               "awesome",
               "awesome-list",
@@ -853,7 +853,7 @@
             "open_issues": 2,
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1362,
+            "stars": 1364,
             "topics": [
               "awesome",
               "awesome-list",
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:01:43.068Z",
+    "last_updated": "2026-10-15T23:45:21.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
@@ -883,7 +883,7 @@
       "open_issues": 7,
       "owner": "sroberts",
       "repo": "awesome-iocs",
-      "stars": 1014,
+      "stars": 1015,
       "topics": [
         "awesome",
         "awesome-list",
