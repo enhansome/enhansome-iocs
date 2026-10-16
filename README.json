@@ -18,10 +18,10 @@
                 "language": "YARA",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-08T07:50:51Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3049,
+                "stars": 3048,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -53,7 +53,7 @@
                 "open_issues": 0,
                 "owner": "eset",
                 "repo": "malware-ioc",
-                "stars": 1990,
+                "stars": 1991,
                 "topics": [
                   "ioc",
                   "malware",
@@ -79,7 +79,7 @@
                 "open_issues": 32,
                 "owner": "aptnotes",
                 "repo": "data",
-                "stars": 1815,
+                "stars": 1816,
                 "topics": [
                   "analysis",
                   "apt",
@@ -424,7 +424,7 @@
               "description": "YARA rules that accompany Trellix Advanced Threat Research (formerly McAfee ATR) blog posts and investigations.",
               "children": [],
               "repo_info": {
-                "archived": true,
+                "archived": false,
                 "description": "Repository of YARA rules made by Trellix ATR Team",
                 "homepage": null,
                 "id": 151364524,
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14286,
+            "stars": 14290,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -758,10 +758,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-05-31T10:54:05Z",
-            "open_issues": 148,
+            "open_issues": 150,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10734,
+            "stars": 10739,
             "topics": [
               "awesome",
               "awesome-list",
@@ -784,10 +784,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-13T05:08:25Z",
-            "open_issues": 90,
+            "open_issues": 91,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9454,
+            "stars": 9458,
             "topics": [
               "awesome",
               "awesome-list",
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:45:21.678Z",
+    "last_updated": "2026-10-16T23:46:19.634Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
@@ -880,10 +880,10 @@
       "language": "Shell",
       "license": "CC0-1.0",
       "last_commit": "2026-10-01T01:37:34Z",
-      "open_issues": 7,
+      "open_issues": 8,
       "owner": "sroberts",
       "repo": "awesome-iocs",
-      "stars": 1015,
+      "stars": 1016,
       "topics": [
         "awesome",
         "awesome-list",
