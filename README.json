@@ -21,7 +21,7 @@
                 "open_issues": 20,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3050,
+                "stars": 3052,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -104,7 +104,7 @@
                 "open_issues": 0,
                 "owner": "volexity",
                 "repo": "threat-intel",
-                "stars": 374,
+                "stars": 375,
                 "topics": [
                   "snort-rules",
                   "suricata-rules",
@@ -131,7 +131,7 @@
                 "open_issues": 9,
                 "owner": "Cisco-Talos",
                 "repo": "IOCs",
-                "stars": 294,
+                "stars": 293,
                 "topics": []
               },
               "first_seen": "2026-09-29T01:10:38.366Z"
@@ -279,7 +279,7 @@
                 "open_issues": 0,
                 "owner": "trilwu",
                 "repo": "apttrail",
-                "stars": 4,
+                "stars": 5,
                 "topics": [
                   "apt",
                   "blocklist",
@@ -362,7 +362,7 @@
                 "open_issues": 28,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4925,
+                "stars": 4926,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -383,7 +383,7 @@
                 "open_issues": 10,
                 "owner": "elastic",
                 "repo": "protections-artifacts",
-                "stars": 1500,
+                "stars": 1501,
                 "topics": []
               },
               "first_seen": "2026-09-29T01:10:38.366Z"
@@ -567,7 +567,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "yarGen",
-                "stars": 1818,
+                "stars": 1819,
                 "topics": [
                   "malware",
                   "malware-analysis",
@@ -595,7 +595,7 @@
                 "open_issues": 15,
                 "owner": "pedramamini",
                 "repo": "ThreatIngestor",
-                "stars": 932,
+                "stars": 933,
                 "topics": [
                   "dfir",
                   "fraud-detection",
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14299,
+            "stars": 14302,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -758,10 +758,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-05-31T10:54:05Z",
-            "open_issues": 152,
+            "open_issues": 153,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10749,
+            "stars": 10753,
             "topics": [
               "awesome",
               "awesome-list",
@@ -787,7 +787,7 @@
             "open_issues": 96,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9465,
+            "stars": 9469,
             "topics": [
               "awesome",
               "awesome-list",
@@ -853,7 +853,7 @@
             "open_issues": 1,
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1367,
+            "stars": 1368,
             "topics": [
               "awesome",
               "awesome-list",
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T00:32:38.901Z",
+    "last_updated": "2026-10-21T00:02:43.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
