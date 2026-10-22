@@ -18,7 +18,7 @@
                 "language": "YARA",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-17T11:06:32Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
                 "stars": 3052,
@@ -362,7 +362,7 @@
                 "open_issues": 28,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4926,
+                "stars": 4927,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -383,7 +383,7 @@
                 "open_issues": 10,
                 "owner": "elastic",
                 "repo": "protections-artifacts",
-                "stars": 1501,
+                "stars": 1503,
                 "topics": []
               },
               "first_seen": "2026-09-29T01:10:38.366Z"
@@ -404,7 +404,7 @@
                 "open_issues": 2,
                 "owner": "reversinglabs",
                 "repo": "reversinglabs-yara-rules",
-                "stars": 949,
+                "stars": 950,
                 "topics": [
                   "indicators-of-compromise",
                   "malware-detection",
@@ -537,11 +537,11 @@
                 "id": 120834196,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T11:05:53Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-21T16:00:21Z",
+                "open_issues": 10,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1884,
+                "stars": 1883,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -567,7 +567,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "yarGen",
-                "stars": 1819,
+                "stars": 1820,
                 "topics": [
                   "malware",
                   "malware-analysis",
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14302,
+            "stars": 14305,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -758,10 +758,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-05-31T10:54:05Z",
-            "open_issues": 153,
+            "open_issues": 155,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10753,
+            "stars": 10755,
             "topics": [
               "awesome",
               "awesome-list",
@@ -787,7 +787,7 @@
             "open_issues": 96,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9469,
+            "stars": 9475,
             "topics": [
               "awesome",
               "awesome-list",
@@ -817,7 +817,7 @@
             "open_issues": 1,
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4294,
+            "stars": 4297,
             "topics": [
               "awesome",
               "awesome-list",
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T00:02:43.258Z",
+    "last_updated": "2026-10-22T00:07:55.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
