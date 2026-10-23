@@ -27,7 +27,7 @@ Forensic artifacts, such as file hashes, domains, IP addresses and detection sig
 * [botherder/targetedthreats](https://github.com/botherder/targetedthreats) ⭐ 190 | 🐛 4 | 🌐 Python | 📅 2021-11-11 - Network indicators from reports on the targeting of civil society, published as CSV, JSON and generated Snort rules.
 * [PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information](https://github.com/PaloAltoNetworks/Unit42-Threat-Intelligence-Article-Information) ⭐ 122 | 🐛 0 | 🌐 Python | 📅 2026-08-05 - IOCs and supporting data for Palo Alto Networks Unit 42 threat research articles, so indicators can be traced back to their write-up.
 * [hvs-consulting/ioc\_signatures](https://github.com/hvs-consulting/ioc_signatures) ⭐ 35 | 🐛 0 | 🌐 YARA | 📅 2026-04-08 - IOCs, CSV context and YARA rules from HvS-Consulting incident response work, organized by threat actor or campaign for threat hunting.
-* [cystack/stealer-fingerprints](https://github.com/cystack/stealer-fingerprints) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-10-10 - Fingerprints of infostealer log formats (banner strings, field signatures, YARA rules) for 30+ families including RedLine, Vidar, Lumma and StealC, for identifying which stealer produced a leaked log.
+* [cystack/stealer-fingerprints](https://github.com/cystack/stealer-fingerprints) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-10-23 - Fingerprints of infostealer log formats (banner strings, field signatures, YARA rules) for 30+ families including RedLine, Vidar, Lumma and StealC, for identifying which stealer produced a leaked log.
 * [trilwu/apttrail](https://github.com/trilwu/apttrail) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-08-15 - APT indicators that carry the actor they belong to, its MITRE ATT\&CK group ID, when they first appeared and the report that published them.
 * [DomainTools-Investigations/Malware-and-Scams](https://github.com/DomainTools-Investigations/Malware-and-Scams) ⭐ 3 | 🐛 0 | 📅 2026-09-10 - IOCs from DomainTools for malware and scams.
 * [DomainTools-Investigations/Nation-State-Threats](https://github.com/DomainTools-Investigations/Nation-State-Threats) ⭐ 0 | 🐛 0 | 📅 2026-08-12 - IOCs from DomainTools for nation-state threats.
@@ -45,7 +45,7 @@ Forensic artifacts, such as file hashes, domains, IP addresses and detection sig
 ### YARA Signatures
 
 * [Yara-Rules/rules](https://github.com/Yara-Rules/rules) ⭐ 4,928 | 🐛 28 | 🌐 YARA | 📅 2024-04-17 - Community-compiled YARA ruleset classified by threat type, a broad starting point for hunting.
-* [elastic/protections-artifacts](https://github.com/elastic/protections-artifacts) ⭐ 1,503 | 🐛 10 | 🌐 YARA | 📅 2026-10-22 - YARA rules and EQL behavior rules used by Elastic Security for endpoint, with coverage mapped to MITRE ATT\&CK.
+* [elastic/protections-artifacts](https://github.com/elastic/protections-artifacts) ⭐ 1,504 | 🐛 10 | 🌐 YARA | 📅 2026-10-23 - YARA rules and EQL behavior rules used by Elastic Security for endpoint, with coverage mapped to MITRE ATT\&CK.
 * [reversinglabs/reversinglabs-yara-rules](https://github.com/reversinglabs/reversinglabs-yara-rules) ⭐ 950 | 🐛 2 | 🌐 YARA | 📅 2025-11-03 - Detection-focused YARA rules from ReversingLabs threat analysts, written with the stated aim of zero false positives.
 * [advanced-threat-research/Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules) ⭐ 631 | 🐛 0 | 🌐 YARA | 📅 2025-03-18 - YARA rules that accompany Trellix Advanced Threat Research (formerly McAfee ATR) blog posts and investigations.
 * [InQuest/yara-rules](https://github.com/InQuest/yara-rules) ⭐ 389 | 🐛 2 | 🌐 Python | 📅 2022-05-11 - YARA rules from InQuest research, intended for hunting rather than production detection; many are referenced from the [InQuest blog](http://blog.inquest.net).
@@ -70,11 +70,11 @@ Forensic artifacts, such as file hashes, domains, IP addresses and detection sig
 
 ## Related Lists
 
-* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) ⭐ 14,313 | 🐛 25 | 📅 2024-06-07 - Tools and resources for analyzing malware.
-* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence#readme) ⭐ 10,762 | 🐛 155 | 📅 2026-05-31 - Threat intelligence sources, formats and platforms.
-* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response#readme) ⭐ 9,481 | 🐛 97 | 📅 2026-10-13 - Tools and resources for security incident response.
-* [Awesome YARA](https://github.com/pedramamini/awesome-yara#readme) ⭐ 4,301 | 🐛 1 | 📅 2026-06-15 - YARA rules, tools and resources.
-* [Awesome Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) ⭐ 1,369 | 🐛 2 | 📅 2026-10-12 - Designing, building and operating detection controls.
+* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) ⭐ 14,322 | 🐛 27 | 📅 2024-06-07 - Tools and resources for analyzing malware.
+* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence#readme) ⭐ 10,768 | 🐛 156 | 📅 2026-05-31 - Threat intelligence sources, formats and platforms.
+* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response#readme) ⭐ 9,492 | 🐛 99 | 📅 2026-10-13 - Tools and resources for security incident response.
+* [Awesome YARA](https://github.com/pedramamini/awesome-yara#readme) ⭐ 4,303 | 🐛 1 | 📅 2026-06-15 - YARA rules, tools and resources.
+* [Awesome Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) ⭐ 1,372 | 🐛 2 | 📅 2026-10-12 - Designing, building and operating detection controls.
 
 ## Contributing
 
