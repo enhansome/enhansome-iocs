@@ -17,11 +17,11 @@
                 "id": 51743885,
                 "language": "YARA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-17T11:06:32Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-29T09:17:10Z",
+                "open_issues": 25,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3054,
+                "stars": 3056,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -79,7 +79,7 @@
                 "open_issues": 32,
                 "owner": "aptnotes",
                 "repo": "data",
-                "stars": 1815,
+                "stars": 1816,
                 "topics": [
                   "analysis",
                   "apt",
@@ -127,11 +127,11 @@
                 "id": 439078399,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-14T13:05:47Z",
+                "last_commit": "2026-10-29T10:06:38Z",
                 "open_issues": 9,
                 "owner": "Cisco-Talos",
                 "repo": "IOCs",
-                "stars": 293,
+                "stars": 294,
                 "topics": []
               },
               "first_seen": "2026-09-29T01:10:38.366Z"
@@ -236,7 +236,7 @@
                 "id": 1231682626,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-28T23:54:18Z",
+                "last_commit": "2026-10-29T08:36:42Z",
                 "open_issues": 0,
                 "owner": "cystack",
                 "repo": "stealer-fingerprints",
@@ -362,7 +362,7 @@
                 "open_issues": 29,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4930,
+                "stars": 4933,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -541,7 +541,7 @@
                 "open_issues": 10,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1884,
+                "stars": 1885,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14340,
+            "stars": 14349,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -758,10 +758,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-05-31T10:54:05Z",
-            "open_issues": 158,
+            "open_issues": 157,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10787,
+            "stars": 10792,
             "topics": [
               "awesome",
               "awesome-list",
@@ -787,7 +787,7 @@
             "open_issues": 100,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9510,
+            "stars": 9513,
             "topics": [
               "awesome",
               "awesome-list",
@@ -814,7 +814,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-06-15T19:57:31Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "pedramamini",
             "repo": "awesome-yara",
             "stars": 4308,
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:09:28.331Z",
+    "last_updated": "2026-10-30T01:16:20.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
