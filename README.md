@@ -20,7 +20,7 @@ Forensic artifacts, such as file hashes, domains, IP addresses and detection sig
 
 * [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) ⭐ 3,059 | 🐛 25 | 🌐 YARA | 📅 2026-10-29 - YARA rules and IOCs behind the LOKI and THOR Lite scanners, curated for a low false-positive rate and updated frequently.
 * [eset/malware-ioc](https://github.com/eset/malware-ioc) ⭐ 1,993 | 🐛 0 | 🌐 YARA | 📅 2026-10-22 - Indicators from ESET research publications, one directory per report and actively updated.
-* [aptnotes/data](https://github.com/aptnotes/data) ⭐ 1,816 | 🐛 32 | 📅 2024-12-16 - Index of public reports on APT campaigns sorted by year, useful for tracing indicators back to the original vendor reporting.
+* [aptnotes/data](https://github.com/aptnotes/data) ⭐ 1,817 | 🐛 32 | 📅 2024-12-16 - Index of public reports on APT campaigns sorted by year, useful for tracing indicators back to the original vendor reporting.
 * [volexity/threat-intel](https://github.com/volexity/threat-intel) ⭐ 376 | 🐛 0 | 🌐 YARA | 📅 2026-10-13 - IOCs from Volexity public threat research blog posts, organized by year and post.
 * [Cisco-Talos/IOCs](https://github.com/Cisco-Talos/IOCs) ⭐ 294 | 🐛 9 | 🌐 Python | 📅 2026-10-29 - IOCs from Cisco Talos.
 * [citizenlab/malware-indicators](https://github.com/citizenlab/malware-indicators) ⭐ 286 | 🐛 2 | 🌐 YARA | 📅 2020-10-04 - Indicators from Citizen Lab investigations into targeted attacks on civil society, one directory per report.
@@ -44,7 +44,7 @@ Forensic artifacts, such as file hashes, domains, IP addresses and detection sig
 
 ### YARA Signatures
 
-* [Yara-Rules/rules](https://github.com/Yara-Rules/rules) ⭐ 4,935 | 🐛 30 | 🌐 YARA | 📅 2024-04-17 - Community-compiled YARA ruleset classified by threat type, a broad starting point for hunting.
+* [Yara-Rules/rules](https://github.com/Yara-Rules/rules) ⭐ 4,934 | 🐛 29 | 🌐 YARA | 📅 2024-04-17 - Community-compiled YARA ruleset classified by threat type, a broad starting point for hunting.
 * [elastic/protections-artifacts](https://github.com/elastic/protections-artifacts) ⭐ 1,508 | 🐛 10 | 🌐 YARA | 📅 2026-10-26 - YARA rules and EQL behavior rules used by Elastic Security for endpoint, with coverage mapped to MITRE ATT\&CK.
 * [reversinglabs/reversinglabs-yara-rules](https://github.com/reversinglabs/reversinglabs-yara-rules) ⭐ 951 | 🐛 2 | 🌐 YARA | 📅 2025-11-03 - Detection-focused YARA rules from ReversingLabs threat analysts, written with the stated aim of zero false positives.
 * [advanced-threat-research/Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules) ⭐ 631 | 🐛 0 | 🌐 YARA | 📅 2025-03-18 - YARA rules that accompany Trellix Advanced Threat Research (formerly McAfee ATR) blog posts and investigations.
@@ -70,10 +70,10 @@ Forensic artifacts, such as file hashes, domains, IP addresses and detection sig
 
 ## Related Lists
 
-* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) ⭐ 14,359 | 🐛 25 | 📅 2024-06-07 - Tools and resources for analyzing malware.
+* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) ⭐ 14,363 | 🐛 25 | 📅 2024-06-07 - Tools and resources for analyzing malware.
 * [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence#readme) ⭐ 10,807 | 🐛 143 | 📅 2026-10-30 - Threat intelligence sources, formats and platforms.
 * [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response#readme) ⭐ 9,516 | 🐛 102 | 📅 2026-10-13 - Tools and resources for security incident response.
-* [Awesome YARA](https://github.com/pedramamini/awesome-yara#readme) ⭐ 4,310 | 🐛 4 | 📅 2026-06-15 - YARA rules, tools and resources.
+* [Awesome YARA](https://github.com/pedramamini/awesome-yara#readme) ⭐ 4,312 | 🐛 4 | 📅 2026-06-15 - YARA rules, tools and resources.
 * [Awesome Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) ⭐ 1,378 | 🐛 3 | 📅 2026-10-12 - Designing, building and operating detection controls.
 
 ## Contributing
@@ -86,4 +86,4 @@ Archived, unmaintained and superseded sources are listed in [archived.md](archiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
