@@ -21,7 +21,7 @@
                 "open_issues": 26,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3061,
+                "stars": 3063,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -313,7 +313,7 @@
                 "open_issues": 0,
                 "owner": "DomainTools-Investigations",
                 "repo": "Malware-and-Scams",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-09-29T01:10:38.366Z"
@@ -362,7 +362,7 @@
                 "open_issues": 29,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4944,
+                "stars": 4943,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -383,7 +383,7 @@
                 "open_issues": 10,
                 "owner": "elastic",
                 "repo": "protections-artifacts",
-                "stars": 1509,
+                "stars": 1508,
                 "topics": []
               },
               "first_seen": "2026-09-29T01:10:38.366Z"
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14384,
+            "stars": 14390,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -758,10 +758,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T13:48:16Z",
-            "open_issues": 159,
+            "open_issues": 160,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10831,
+            "stars": 10837,
             "topics": [
               "awesome",
               "awesome-list",
@@ -787,7 +787,7 @@
             "open_issues": 110,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9543,
+            "stars": 9546,
             "topics": [
               "awesome",
               "awesome-list",
@@ -850,10 +850,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-12T12:55:02Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1385,
+            "stars": 1388,
             "topics": [
               "awesome",
               "awesome-list",
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:51:14.900Z",
+    "last_updated": "2026-11-09T01:08:26.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
