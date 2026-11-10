@@ -21,7 +21,7 @@
                 "open_issues": 26,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3063,
+                "stars": 3064,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -152,7 +152,7 @@
                 "open_issues": 2,
                 "owner": "citizenlab",
                 "repo": "malware-indicators",
-                "stars": 286,
+                "stars": 287,
                 "topics": [
                   "ioc",
                   "malware-research",
@@ -359,10 +359,10 @@
                 "language": "YARA",
                 "license": "GPL-2.0",
                 "last_commit": "2024-04-17T00:12:25Z",
-                "open_issues": 29,
+                "open_issues": 28,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4943,
+                "stars": 4947,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -379,11 +379,11 @@
                 "id": 495971687,
                 "language": "YARA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-05T12:38:49Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-09T11:10:09Z",
+                "open_issues": 3,
                 "owner": "elastic",
                 "repo": "protections-artifacts",
-                "stars": 1508,
+                "stars": 1510,
                 "topics": []
               },
               "first_seen": "2026-09-29T01:10:38.366Z"
@@ -567,7 +567,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "yarGen",
-                "stars": 1823,
+                "stars": 1824,
                 "topics": [
                   "malware",
                   "malware-analysis",
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14390,
+            "stars": 14398,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -761,7 +761,7 @@
             "open_issues": 160,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10837,
+            "stars": 10845,
             "topics": [
               "awesome",
               "awesome-list",
@@ -784,10 +784,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-13T05:08:25Z",
-            "open_issues": 110,
+            "open_issues": 111,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9546,
+            "stars": 9551,
             "topics": [
               "awesome",
               "awesome-list",
@@ -814,10 +814,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-06-15T19:57:31Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4314,
+            "stars": 4317,
             "topics": [
               "awesome",
               "awesome-list",
@@ -853,7 +853,7 @@
             "open_issues": 3,
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1388,
+            "stars": 1390,
             "topics": [
               "awesome",
               "awesome-list",
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:08:26.341Z",
+    "last_updated": "2026-11-10T03:43:39.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
@@ -883,7 +883,7 @@
       "open_issues": 10,
       "owner": "sroberts",
       "repo": "awesome-iocs",
-      "stars": 1028,
+      "stars": 1030,
       "topics": [
         "awesome",
         "awesome-list",
