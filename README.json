@@ -18,10 +18,10 @@
                 "language": "YARA",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-06T18:19:54Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3064,
+                "stars": 3065,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -49,11 +49,11 @@
                 "id": 17713436,
                 "language": "YARA",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-04T20:11:35Z",
+                "last_commit": "2026-11-10T14:20:53Z",
                 "open_issues": 0,
                 "owner": "eset",
                 "repo": "malware-ioc",
-                "stars": 1992,
+                "stars": 1993,
                 "topics": [
                   "ioc",
                   "malware",
@@ -219,7 +219,7 @@
                 "open_issues": 0,
                 "owner": "hvs-consulting",
                 "repo": "ioc_signatures",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-09-29T01:10:38.366Z"
@@ -265,6 +265,27 @@
             },
             {
               "node_type": "item",
+              "title": "DomainTools-Investigations/Malware-and-Scams",
+              "description": "IOCs from DomainTools for malware and scams.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "IOCs for malware and scams found in DTI research",
+                "homepage": null,
+                "id": 1246127096,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-09-10T20:44:57Z",
+                "open_issues": 0,
+                "owner": "DomainTools-Investigations",
+                "repo": "Malware-and-Scams",
+                "stars": 5,
+                "topics": []
+              },
+              "first_seen": "2026-09-29T01:10:38.366Z"
+            },
+            {
+              "node_type": "item",
               "title": "trilwu/apttrail",
               "description": "APT indicators that carry the actor they belong to, its MITRE ATT&CK group ID, when they first appeared and the report that published them.",
               "children": [],
@@ -299,27 +320,6 @@
             },
             {
               "node_type": "item",
-              "title": "DomainTools-Investigations/Malware-and-Scams",
-              "description": "IOCs from DomainTools for malware and scams.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "IOCs for malware and scams found in DTI research",
-                "homepage": null,
-                "id": 1246127096,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-09-10T20:44:57Z",
-                "open_issues": 0,
-                "owner": "DomainTools-Investigations",
-                "repo": "Malware-and-Scams",
-                "stars": 4,
-                "topics": []
-              },
-              "first_seen": "2026-09-29T01:10:38.366Z"
-            },
-            {
-              "node_type": "item",
               "title": "DomainTools-Investigations/Nation-State-Threats",
               "description": "IOCs from DomainTools for nation-state threats.",
               "children": [],
@@ -334,7 +334,7 @@
                 "open_issues": 0,
                 "owner": "DomainTools-Investigations",
                 "repo": "Nation-State-Threats",
-                "stars": 0,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-09-29T01:10:38.366Z"
@@ -362,7 +362,7 @@
                 "open_issues": 28,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4947,
+                "stars": 4949,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -383,7 +383,7 @@
                 "open_issues": 3,
                 "owner": "elastic",
                 "repo": "protections-artifacts",
-                "stars": 1510,
+                "stars": 1511,
                 "topics": []
               },
               "first_seen": "2026-09-29T01:10:38.366Z"
@@ -434,7 +434,7 @@
                 "open_issues": 0,
                 "owner": "advanced-threat-research",
                 "repo": "Yara-Rules",
-                "stars": 631,
+                "stars": 632,
                 "topics": [
                   "iocs",
                   "threat-hunting",
@@ -482,7 +482,7 @@
                 "id": 185764221,
                 "language": "YARA",
                 "license": "MIT",
-                "last_commit": "2025-02-02T17:45:23Z",
+                "last_commit": "2026-11-10T14:15:01Z",
                 "open_issues": 0,
                 "owner": "intezer",
                 "repo": "yara-rules",
@@ -538,7 +538,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-21T16:00:21Z",
-                "open_issues": 10,
+                "open_issues": 13,
                 "owner": "ninoseki",
                 "repo": "mitaka",
                 "stars": 1888,
@@ -567,7 +567,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "yarGen",
-                "stars": 1824,
+                "stars": 1825,
                 "topics": [
                   "malware",
                   "malware-analysis",
@@ -595,7 +595,7 @@
                 "open_issues": 15,
                 "owner": "pedramamini",
                 "repo": "ThreatIngestor",
-                "stars": 931,
+                "stars": 932,
                 "topics": [
                   "dfir",
                   "fraud-detection",
@@ -635,7 +635,7 @@
                 "open_issues": 2,
                 "owner": "pedramamini",
                 "repo": "iocextract",
-                "stars": 581,
+                "stars": 582,
                 "topics": [
                   "base64",
                   "decoding",
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14398,
+            "stars": 14401,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -761,7 +761,7 @@
             "open_issues": 160,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10845,
+            "stars": 10848,
             "topics": [
               "awesome",
               "awesome-list",
@@ -787,7 +787,7 @@
             "open_issues": 111,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9551,
+            "stars": 9555,
             "topics": [
               "awesome",
               "awesome-list",
@@ -853,7 +853,7 @@
             "open_issues": 3,
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1390,
+            "stars": 1394,
             "topics": [
               "awesome",
               "awesome-list",
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T03:43:39.087Z",
+    "last_updated": "2026-11-11T01:23:40.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
