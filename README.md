@@ -19,7 +19,7 @@ Forensic artifacts, such as file hashes, domains, IP addresses and detection sig
 ### Indicators
 
 * [Neo23x0/signature-base](https://github.com/Neo23x0/signature-base) ⭐ 3,064 | 🐛 27 | 🌐 YARA | 📅 2026-11-06 - YARA rules and IOCs behind the LOKI and THOR Lite scanners, curated for a low false-positive rate and updated frequently.
-* [eset/malware-ioc](https://github.com/eset/malware-ioc) ⭐ 1,995 | 🐛 0 | 🌐 YARA | 📅 2026-11-10 - Indicators from ESET research publications, one directory per report and actively updated.
+* [eset/malware-ioc](https://github.com/eset/malware-ioc) ⭐ 1,998 | 🐛 0 | 🌐 YARA | 📅 2026-11-10 - Indicators from ESET research publications, one directory per report and actively updated.
 * [aptnotes/data](https://github.com/aptnotes/data) ⭐ 1,821 | 🐛 32 | 📅 2024-12-16 - Index of public reports on APT campaigns sorted by year, useful for tracing indicators back to the original vendor reporting.
 * [volexity/threat-intel](https://github.com/volexity/threat-intel) ⭐ 374 | 🐛 0 | 🌐 YARA | 📅 2026-10-13 - IOCs from Volexity public threat research blog posts, organized by year and post.
 * [Cisco-Talos/IOCs](https://github.com/Cisco-Talos/IOCs) ⭐ 296 | 🐛 9 | 🌐 Python | 📅 2026-10-29 - IOCs from Cisco Talos.
@@ -44,8 +44,8 @@ Forensic artifacts, such as file hashes, domains, IP addresses and detection sig
 
 ### YARA Signatures
 
-* [Yara-Rules/rules](https://github.com/Yara-Rules/rules) ⭐ 4,951 | 🐛 28 | 🌐 YARA | 📅 2024-04-17 - Community-compiled YARA ruleset classified by threat type, a broad starting point for hunting.
-* [elastic/protections-artifacts](https://github.com/elastic/protections-artifacts) ⭐ 1,511 | 🐛 3 | 🌐 YARA | 📅 2026-11-09 - YARA rules and EQL behavior rules used by Elastic Security for endpoint, with coverage mapped to MITRE ATT\&CK.
+* [Yara-Rules/rules](https://github.com/Yara-Rules/rules) ⭐ 4,953 | 🐛 28 | 🌐 YARA | 📅 2024-04-17 - Community-compiled YARA ruleset classified by threat type, a broad starting point for hunting.
+* [elastic/protections-artifacts](https://github.com/elastic/protections-artifacts) ⭐ 1,512 | 🐛 3 | 🌐 YARA | 📅 2026-11-09 - YARA rules and EQL behavior rules used by Elastic Security for endpoint, with coverage mapped to MITRE ATT\&CK.
 * [reversinglabs/reversinglabs-yara-rules](https://github.com/reversinglabs/reversinglabs-yara-rules) ⭐ 952 | 🐛 2 | 🌐 YARA | 📅 2025-11-03 - Detection-focused YARA rules from ReversingLabs threat analysts, written with the stated aim of zero false positives.
 * [advanced-threat-research/Yara-Rules](https://github.com/advanced-threat-research/Yara-Rules) ⭐ 631 | 🐛 0 | 🌐 YARA | 📅 2025-03-18 - YARA rules that accompany Trellix Advanced Threat Research (formerly McAfee ATR) blog posts and investigations.
 * [InQuest/yara-rules](https://github.com/InQuest/yara-rules) ⭐ 389 | 🐛 2 | 🌐 Python | 📅 2022-05-11 - YARA rules from InQuest research, intended for hunting rather than production detection; many are referenced from the [InQuest blog](http://blog.inquest.net).
@@ -56,9 +56,9 @@ Forensic artifacts, such as file hashes, domains, IP addresses and detection sig
 
 ### IOC Tools
 
-* [ninoseki/mitaka](https://github.com/ninoseki/mitaka#downloads) ⭐ 1,889 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-21 - Browser extension that looks up a selected IOC across many OSINT and scanning services from the context menu.
+* [ninoseki/mitaka](https://github.com/ninoseki/mitaka#downloads) ⭐ 1,890 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-21 - Browser extension that looks up a selected IOC across many OSINT and scanning services from the context menu.
 * [Neo23x0/yarGen](https://github.com/Neo23x0/yarGen) ⭐ 1,825 | 🐛 14 | 🌐 Python | 📅 2026-01-10 - Generates YARA rules from malware samples while filtering out strings common in goodware.
-* [pedramamini/ThreatIngestor](https://github.com/pedramamini/ThreatIngestor) ⭐ 932 | 🐛 15 | 🌐 Python | 📅 2026-05-26 - Extendable framework that extracts and aggregates IOCs from threat feeds and passes them to other tools.
+* [pedramamini/ThreatIngestor](https://github.com/pedramamini/ThreatIngestor) ⭐ 933 | 🐛 15 | 🌐 Python | 📅 2026-05-26 - Extendable framework that extracts and aggregates IOCs from threat feeds and passes them to other tools.
 * [pedramamini/iocextract](https://github.com/pedramamini/iocextract) ⭐ 582 | 🐛 2 | 🌐 Python | 📅 2024-08-28 - Extracts IOCs from text, including defanged URLs, IP addresses and hashes.
 
 ### IOC Formats
@@ -70,9 +70,9 @@ Forensic artifacts, such as file hashes, domains, IP addresses and detection sig
 
 ## Related Lists
 
-* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) ⭐ 14,404 | 🐛 25 | 📅 2024-06-07 - Tools and resources for analyzing malware.
-* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence#readme) ⭐ 10,852 | 🐛 161 | 📅 2026-10-30 - Threat intelligence sources, formats and platforms.
-* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response#readme) ⭐ 9,556 | 🐛 114 | 📅 2026-10-13 - Tools and resources for security incident response.
+* [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme) ⭐ 14,406 | 🐛 25 | 📅 2024-06-07 - Tools and resources for analyzing malware.
+* [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence#readme) ⭐ 10,854 | 🐛 163 | 📅 2026-10-30 - Threat intelligence sources, formats and platforms.
+* [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response#readme) ⭐ 9,560 | 🐛 117 | 📅 2026-10-13 - Tools and resources for security incident response.
 * [Awesome YARA](https://github.com/pedramamini/awesome-yara#readme) ⭐ 4,318 | 🐛 4 | 📅 2026-06-15 - YARA rules, tools and resources.
 * [Awesome Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) ⭐ 1,394 | 🐛 3 | 📅 2026-10-12 - Designing, building and operating detection controls.
 
@@ -86,4 +86,4 @@ Archived, unmaintained and superseded sources are listed in [archived.md](archiv
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
