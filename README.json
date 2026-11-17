@@ -79,7 +79,7 @@
                 "open_issues": 32,
                 "owner": "aptnotes",
                 "repo": "data",
-                "stars": 1821,
+                "stars": 1822,
                 "topics": [
                   "analysis",
                   "apt",
@@ -362,7 +362,7 @@
                 "open_issues": 28,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4955,
+                "stars": 4954,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -541,7 +541,7 @@
                 "open_issues": 1,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1890,
+                "stars": 1891,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14419,
+            "stars": 14423,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -787,7 +787,7 @@
             "open_issues": 120,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9565,
+            "stars": 9572,
             "topics": [
               "awesome",
               "awesome-list",
@@ -817,7 +817,7 @@
             "open_issues": 4,
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4320,
+            "stars": 4319,
             "topics": [
               "awesome",
               "awesome-list",
@@ -850,10 +850,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-12T12:55:02Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1398,
+            "stars": 1403,
             "topics": [
               "awesome",
               "awesome-list",
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T01:18:07.802Z",
+    "last_updated": "2026-11-17T04:05:48.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
@@ -883,7 +883,7 @@
       "open_issues": 11,
       "owner": "sroberts",
       "repo": "awesome-iocs",
-      "stars": 1031,
+      "stars": 1032,
       "topics": [
         "awesome",
         "awesome-list",
