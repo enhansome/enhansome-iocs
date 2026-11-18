@@ -17,11 +17,11 @@
                 "id": 51743885,
                 "language": "YARA",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-13T23:45:25Z",
+                "last_commit": "2026-11-17T07:59:46Z",
                 "open_issues": 28,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3065,
+                "stars": 3066,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -131,7 +131,7 @@
                 "open_issues": 9,
                 "owner": "Cisco-Talos",
                 "repo": "IOCs",
-                "stars": 297,
+                "stars": 298,
                 "topics": []
               },
               "first_seen": "2026-09-29T01:10:38.366Z"
@@ -236,7 +236,7 @@
                 "id": 1231682626,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T13:49:17Z",
+                "last_commit": "2026-11-17T19:32:32Z",
                 "open_issues": 0,
                 "owner": "cystack",
                 "repo": "stealer-fingerprints",
@@ -362,7 +362,7 @@
                 "open_issues": 28,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4954,
+                "stars": 4957,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -434,7 +434,7 @@
                 "open_issues": 0,
                 "owner": "advanced-threat-research",
                 "repo": "Yara-Rules",
-                "stars": 631,
+                "stars": 632,
                 "topics": [
                   "iocs",
                   "threat-hunting",
@@ -567,7 +567,7 @@
                 "open_issues": 14,
                 "owner": "Neo23x0",
                 "repo": "yarGen",
-                "stars": 1827,
+                "stars": 1828,
                 "topics": [
                   "malware",
                   "malware-analysis",
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14423,
+            "stars": 14429,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -758,10 +758,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T13:48:16Z",
-            "open_issues": 167,
+            "open_issues": 170,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10869,
+            "stars": 10871,
             "topics": [
               "awesome",
               "awesome-list",
@@ -784,10 +784,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-13T05:08:25Z",
-            "open_issues": 120,
+            "open_issues": 122,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9572,
+            "stars": 9580,
             "topics": [
               "awesome",
               "awesome-list",
@@ -817,7 +817,7 @@
             "open_issues": 4,
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4319,
+            "stars": 4321,
             "topics": [
               "awesome",
               "awesome-list",
@@ -853,7 +853,7 @@
             "open_issues": 5,
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1403,
+            "stars": 1404,
             "topics": [
               "awesome",
               "awesome-list",
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T04:05:48.613Z",
+    "last_updated": "2026-11-18T03:03:43.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
