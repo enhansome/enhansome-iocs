@@ -21,7 +21,7 @@
                 "open_issues": 28,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3066,
+                "stars": 3067,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -79,7 +79,7 @@
                 "open_issues": 32,
                 "owner": "aptnotes",
                 "repo": "data",
-                "stars": 1822,
+                "stars": 1821,
                 "topics": [
                   "analysis",
                   "apt",
@@ -127,7 +127,7 @@
                 "id": 439078399,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-13T21:07:01Z",
+                "last_commit": "2026-11-18T11:06:56Z",
                 "open_issues": 9,
                 "owner": "Cisco-Talos",
                 "repo": "IOCs",
@@ -236,7 +236,7 @@
                 "id": 1231682626,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T19:32:32Z",
+                "last_commit": "2026-11-19T02:27:58Z",
                 "open_issues": 0,
                 "owner": "cystack",
                 "repo": "stealer-fingerprints",
@@ -380,7 +380,7 @@
                 "language": "YARA",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-09T11:10:09Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "elastic",
                 "repo": "protections-artifacts",
                 "stars": 1515,
@@ -541,7 +541,7 @@
                 "open_issues": 1,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1891,
+                "stars": 1893,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -595,7 +595,7 @@
                 "open_issues": 15,
                 "owner": "pedramamini",
                 "repo": "ThreatIngestor",
-                "stars": 933,
+                "stars": 934,
                 "topics": [
                   "dfir",
                   "fraud-detection",
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14429,
+            "stars": 14437,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -758,10 +758,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-30T13:48:16Z",
-            "open_issues": 170,
+            "open_issues": 169,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10871,
+            "stars": 10874,
             "topics": [
               "awesome",
               "awesome-list",
@@ -787,7 +787,7 @@
             "open_issues": 122,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9580,
+            "stars": 9582,
             "topics": [
               "awesome",
               "awesome-list",
@@ -850,7 +850,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-12T12:55:02Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
             "stars": 1404,
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:03:43.521Z",
+    "last_updated": "2026-11-19T02:43:42.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
