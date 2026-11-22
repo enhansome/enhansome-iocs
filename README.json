@@ -21,7 +21,7 @@
                 "open_issues": 29,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3068,
+                "stars": 3069,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -198,7 +198,7 @@
                 "open_issues": 0,
                 "owner": "PaloAltoNetworks",
                 "repo": "Unit42-Threat-Intelligence-Article-Information",
-                "stars": 122,
+                "stars": 123,
                 "topics": []
               },
               "first_seen": "2026-09-24T23:57:53.413Z"
@@ -362,7 +362,7 @@
                 "open_issues": 27,
                 "owner": "Yara-Rules",
                 "repo": "rules",
-                "stars": 4960,
+                "stars": 4963,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:32:42.236Z"
@@ -404,7 +404,7 @@
                 "open_issues": 2,
                 "owner": "reversinglabs",
                 "repo": "reversinglabs-yara-rules",
-                "stars": 953,
+                "stars": 954,
                 "topics": [
                   "indicators-of-compromise",
                   "malware-detection",
@@ -537,8 +537,8 @@
                 "id": 120834196,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T22:20:20Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-21T03:54:02Z",
+                "open_issues": 0,
                 "owner": "ninoseki",
                 "repo": "mitaka",
                 "stars": 1892,
@@ -592,7 +592,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-05-26T15:01:24Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "pedramamini",
                 "repo": "ThreatIngestor",
                 "stars": 933,
@@ -720,7 +720,7 @@
             "open_issues": 25,
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14449,
+            "stars": 14451,
             "topics": [
               "analysis-framework",
               "automated-analysis",
@@ -761,7 +761,7 @@
             "open_issues": 169,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10880,
+            "stars": 10885,
             "topics": [
               "awesome",
               "awesome-list",
@@ -784,10 +784,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-13T05:08:25Z",
-            "open_issues": 122,
+            "open_issues": 123,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9588,
+            "stars": 9592,
             "topics": [
               "awesome",
               "awesome-list",
@@ -817,7 +817,7 @@
             "open_issues": 4,
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4323,
+            "stars": 4324,
             "topics": [
               "awesome",
               "awesome-list",
@@ -850,10 +850,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-12T12:55:02Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "infosecB",
             "repo": "awesome-detection-engineering",
-            "stars": 1403,
+            "stars": 1405,
             "topics": [
               "awesome",
               "awesome-list",
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T02:41:49.914Z",
+    "last_updated": "2026-11-22T01:29:19.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
