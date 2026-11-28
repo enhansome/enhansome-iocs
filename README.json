@@ -21,7 +21,7 @@
                 "open_issues": 28,
                 "owner": "Neo23x0",
                 "repo": "signature-base",
-                "stars": 3080,
+                "stars": 3083,
                 "topics": [
                   "anti-virus",
                   "dfir",
@@ -236,7 +236,7 @@
                 "id": 1231682626,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T11:04:24Z",
+                "last_commit": "2026-11-27T15:00:34Z",
                 "open_issues": 0,
                 "owner": "cystack",
                 "repo": "stealer-fingerprints",
@@ -383,7 +383,7 @@
                 "open_issues": 6,
                 "owner": "elastic",
                 "repo": "protections-artifacts",
-                "stars": 1519,
+                "stars": 1520,
                 "topics": []
               },
               "first_seen": "2026-09-29T01:10:38.366Z"
@@ -404,7 +404,7 @@
                 "open_issues": 2,
                 "owner": "reversinglabs",
                 "repo": "reversinglabs-yara-rules",
-                "stars": 954,
+                "stars": 957,
                 "topics": [
                   "indicators-of-compromise",
                   "malware-detection",
@@ -541,7 +541,7 @@
                 "open_issues": 0,
                 "owner": "ninoseki",
                 "repo": "mitaka",
-                "stars": 1897,
+                "stars": 1896,
                 "topics": [
                   "chrome-extension",
                   "osint",
@@ -761,7 +761,7 @@
             "open_issues": 172,
             "owner": "hslatman",
             "repo": "awesome-threat-intelligence",
-            "stars": 10905,
+            "stars": 10904,
             "topics": [
               "awesome",
               "awesome-list",
@@ -784,10 +784,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-11-26T11:28:53Z",
-            "open_issues": 118,
+            "open_issues": 120,
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9613,
+            "stars": 9614,
             "topics": [
               "awesome",
               "awesome-list",
@@ -817,7 +817,7 @@
             "open_issues": 6,
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4327,
+            "stars": 4329,
             "topics": [
               "awesome",
               "awesome-list",
@@ -871,7 +871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:43:15.875Z",
+    "last_updated": "2026-11-28T03:26:45.303Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated sources of indicators of compromise, detection signatures and IOC tools.",
